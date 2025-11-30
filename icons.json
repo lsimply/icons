@@ -1,0 +1,5404 @@
+{
+  "name": "Lsimply Icons",
+  "version": "1.0.0",
+  "description": "A collection of icons for Lsimply dashboard",
+  "source": "https://github.com/Lsimply/icons",
+  "generatedAt": "2025-11-30T22:55:32.197119",
+  "totalIcons": 572,
+  "statistics": {
+    "png": 572,
+    "svg": 250,
+    "pngOnly": 332,
+    "bothFormats": 240
+  },
+  "icons": [
+    {
+      "name": "12ft",
+      "displayName": "12Ft",
+      "png": "png/12ft.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "3cx",
+      "displayName": "3Cx",
+      "png": "png/3cx.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "activitypub",
+      "displayName": "Activitypub",
+      "png": "png/activitypub.png",
+      "svg": "svg/activitypub.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "actual",
+      "displayName": "Actual",
+      "png": "png/actual.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "adguardhome",
+      "displayName": "Adguardhome",
+      "png": "png/adguardhome.png",
+      "svg": "svg/adguardhome.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "adminer",
+      "displayName": "Adminer",
+      "png": "png/adminer.png",
+      "svg": "svg/adminer.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "adobe-lightroom",
+      "displayName": "Adobe Lightroom",
+      "png": "png/adobe-lightroom.png",
+      "svg": "svg/adobe-lightroom.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "airsonic",
+      "displayName": "Airsonic",
+      "png": "png/airsonic.png",
+      "svg": "svg/airsonic.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "alarmpi",
+      "displayName": "Alarmpi",
+      "png": "png/alarmpi.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "alertmanager",
+      "displayName": "Alertmanager",
+      "png": "png/alertmanager.png",
+      "svg": "svg/alertmanager.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "aliexpress",
+      "displayName": "Aliexpress",
+      "png": "png/aliexpress.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "alltube",
+      "displayName": "Alltube",
+      "png": "png/alltube.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "alma",
+      "displayName": "Alma",
+      "png": "png/alma.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "alpine",
+      "displayName": "Alpine",
+      "png": "png/alpine.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "amazon-prime",
+      "displayName": "Amazon Prime",
+      "png": "png/amazon-prime.png",
+      "svg": "svg/amazon-prime.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "amazon-web-services",
+      "displayName": "Amazon Web Services",
+      "png": "png/amazon-web-services.png",
+      "svg": "svg/amazon-web-services.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "amazon",
+      "displayName": "Amazon",
+      "png": "png/amazon.png",
+      "svg": "svg/amazon.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "amd",
+      "displayName": "Amd",
+      "png": "png/amd.png",
+      "svg": "svg/amd.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "ampache",
+      "displayName": "Ampache",
+      "png": "png/ampache.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "amvd",
+      "displayName": "Amvd",
+      "png": "png/amvd.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "android",
+      "displayName": "Android",
+      "png": "png/android.png",
+      "svg": "svg/android.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "ansible",
+      "displayName": "Ansible",
+      "png": "png/ansible.png",
+      "svg": "svg/ansible.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "apache-solr",
+      "displayName": "Apache Solr",
+      "png": "png/apache-solr.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "apc",
+      "displayName": "Apc",
+      "png": "png/apc.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "apple-music",
+      "displayName": "Apple Music",
+      "png": "png/apple-music.png",
+      "svg": "svg/apple-music.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "apple-retro",
+      "displayName": "Apple Retro",
+      "png": "png/apple-retro.png",
+      "svg": "svg/apple-retro.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "apple",
+      "displayName": "Apple",
+      "png": "png/apple.png",
+      "svg": "svg/apple.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "arch-linux",
+      "displayName": "Arch Linux",
+      "png": "png/arch-linux.png",
+      "svg": "svg/arch-linux.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "archivebox",
+      "displayName": "Archivebox",
+      "png": "png/archivebox.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "archiveteamwarrior",
+      "displayName": "Archiveteamwarrior",
+      "png": "png/archiveteamwarrior.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "argocd",
+      "displayName": "Argocd",
+      "png": "png/argocd.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ariang",
+      "displayName": "Ariang",
+      "png": "png/ariang.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "artifactory",
+      "displayName": "Artifactory",
+      "png": "png/artifactory.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "asterisk",
+      "displayName": "Asterisk",
+      "png": "png/asterisk.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "asus-rog",
+      "displayName": "Asus Rog",
+      "png": "png/asus-rog.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "asus",
+      "displayName": "Asus",
+      "png": "png/asus.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "audacity",
+      "displayName": "Audacity",
+      "png": "png/audacity.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "authelia",
+      "displayName": "Authelia",
+      "png": "png/authelia.png",
+      "svg": "svg/authelia.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "authentik",
+      "displayName": "Authentik",
+      "png": "png/authentik.png",
+      "svg": "svg/authentik.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "avmfritzbox",
+      "displayName": "Avmfritzbox",
+      "png": "png/avmfritzbox.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "aws",
+      "displayName": "Aws",
+      "png": "png/aws.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "awx",
+      "displayName": "Awx",
+      "png": "png/awx.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "azure",
+      "displayName": "Azure",
+      "png": "png/azure.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "azuredns",
+      "displayName": "Azuredns",
+      "png": "png/azuredns.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "backblaze",
+      "displayName": "Backblaze",
+      "png": "png/backblaze.png",
+      "svg": "svg/backblaze.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "bacula",
+      "displayName": "Bacula",
+      "png": "png/bacula.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "badge",
+      "displayName": "Badge",
+      "png": "png/badge.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "baikal",
+      "displayName": "Baikal",
+      "png": "png/baikal.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "bastillion",
+      "displayName": "Bastillion",
+      "png": "png/bastillion.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "bazarr",
+      "displayName": "Bazarr",
+      "png": "png/bazarr.png",
+      "svg": "svg/bazarr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "beats",
+      "displayName": "Beats",
+      "png": "png/beats.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "beets",
+      "displayName": "Beets",
+      "png": "png/beets.png",
+      "svg": "svg/beets.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "bing",
+      "displayName": "Bing",
+      "png": "png/bing.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "bithumen",
+      "displayName": "Bithumen",
+      "png": "png/bithumen.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "bitwarden",
+      "displayName": "Bitwarden",
+      "png": "png/bitwarden.png",
+      "svg": "svg/bitwarden.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "blueiris",
+      "displayName": "Blueiris",
+      "png": "png/blueiris.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "bluesky",
+      "displayName": "Bluesky",
+      "png": "png/bluesky.png",
+      "svg": "svg/bluesky.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "bluetooth",
+      "displayName": "Bluetooth",
+      "png": "png/bluetooth.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "booksonic",
+      "displayName": "Booksonic",
+      "png": "png/booksonic.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "bookstack",
+      "displayName": "Bookstack",
+      "png": "png/bookstack.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "box",
+      "displayName": "Box",
+      "png": "png/box.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "brewpi",
+      "displayName": "Brewpi",
+      "png": "png/brewpi.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "brother",
+      "displayName": "Brother",
+      "png": "png/brother.png",
+      "svg": "svg/brother.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "buxfer",
+      "displayName": "Buxfer",
+      "png": "png/buxfer.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "cabot",
+      "displayName": "Cabot",
+      "png": "png/cabot.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "caddy",
+      "displayName": "Caddy",
+      "png": "png/caddy.png",
+      "svg": "svg/caddy.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "cadvisor",
+      "displayName": "Cadvisor",
+      "png": "png/cadvisor.png",
+      "svg": "svg/cadvisor.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "calibreweb",
+      "displayName": "Calibreweb",
+      "png": "png/calibreweb.png",
+      "svg": "svg/calibreweb.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "cardigann",
+      "displayName": "Cardigann",
+      "png": "png/cardigann.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "centos",
+      "displayName": "Centos",
+      "png": "png/centos.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "changedetection",
+      "displayName": "Changedetection",
+      "png": "png/changedetection.png",
+      "svg": "svg/changedetection.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "checkmk",
+      "displayName": "Checkmk",
+      "png": "png/checkmk.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "cherry",
+      "displayName": "Cherry",
+      "png": "png/cherry.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "chevereto",
+      "displayName": "Chevereto",
+      "png": "png/chevereto.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "chowdown",
+      "displayName": "Chowdown",
+      "png": "png/chowdown.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "chrome-canary",
+      "displayName": "Chrome Canary",
+      "png": "png/chrome-canary.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "chrome",
+      "displayName": "Chrome",
+      "png": "png/chrome.png",
+      "svg": "svg/chrome.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "chromium",
+      "displayName": "Chromium",
+      "png": "png/chromium.png",
+      "svg": "svg/chromium.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "chronograf",
+      "displayName": "Chronograf",
+      "png": "png/chronograf.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "cisco",
+      "displayName": "Cisco",
+      "png": "png/cisco.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "clarkson",
+      "displayName": "Clarkson",
+      "png": "png/clarkson.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "cloudcmd",
+      "displayName": "Cloudcmd",
+      "png": "png/cloudcmd.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "cloudflare",
+      "displayName": "Cloudflare",
+      "png": "png/cloudflare.png",
+      "svg": "svg/cloudflare.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "cockpit",
+      "displayName": "Cockpit",
+      "png": "png/cockpit.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "cockpitcms",
+      "displayName": "Cockpitcms",
+      "png": "png/cockpitcms.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "code",
+      "displayName": "Code",
+      "png": "png/code.png",
+      "svg": "svg/code.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "codeserver",
+      "displayName": "Codeserver",
+      "png": "png/codeserver.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "codimd",
+      "displayName": "Codimd",
+      "png": "png/codimd.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "commafeed",
+      "displayName": "Commafeed",
+      "png": "png/commafeed.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "concourse",
+      "displayName": "Concourse",
+      "png": "png/concourse.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "coreos",
+      "displayName": "Coreos",
+      "png": "png/coreos.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "couchpotato",
+      "displayName": "Couchpotato",
+      "png": "png/couchpotato.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "cpanel",
+      "displayName": "Cpanel",
+      "png": "png/cpanel.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "crowdsec",
+      "displayName": "Crowdsec",
+      "png": "png/crowdsec.png",
+      "svg": "svg/crowdsec.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "cryptpad",
+      "displayName": "Cryptpad",
+      "png": "png/cryptpad.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "css",
+      "displayName": "Css",
+      "png": "png/css.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "cyberchef",
+      "displayName": "Cyberchef",
+      "png": "png/cyberchef.png",
+      "svg": "svg/cyberchef.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "debian",
+      "displayName": "Debian",
+      "png": "png/debian.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "deemix",
+      "displayName": "Deemix",
+      "png": "png/deemix.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "deezer",
+      "displayName": "Deezer",
+      "png": "png/deezer.png",
+      "svg": "svg/deezer.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "dell",
+      "displayName": "Dell",
+      "png": "png/dell.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "deluge",
+      "displayName": "Deluge",
+      "png": "png/deluge.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "digitalocean",
+      "displayName": "Digitalocean",
+      "png": "png/digitalocean.png",
+      "svg": "svg/digitalocean.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "directus",
+      "displayName": "Directus",
+      "png": "png/directus.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "discord",
+      "displayName": "Discord",
+      "png": "png/discord.png",
+      "svg": "svg/discord.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "discourse",
+      "displayName": "Discourse",
+      "png": "png/discourse.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "docker-moby",
+      "displayName": "Docker Moby",
+      "png": "png/docker-moby.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "docker",
+      "displayName": "Docker",
+      "png": "png/docker.png",
+      "svg": "svg/docker.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "docspell",
+      "displayName": "Docspell",
+      "png": "png/docspell.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "dokuwiki",
+      "displayName": "Dokuwiki",
+      "png": "png/dokuwiki.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "domoticz",
+      "displayName": "Domoticz",
+      "png": "png/domoticz.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "dovecot",
+      "displayName": "Dovecot",
+      "png": "png/dovecot.png",
+      "svg": "svg/dovecot.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "dozzle",
+      "displayName": "Dozzle",
+      "png": "png/dozzle.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "drone",
+      "displayName": "Drone",
+      "png": "png/drone.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "dropbox",
+      "displayName": "Dropbox",
+      "png": "png/dropbox.png",
+      "svg": "svg/dropbox.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "droppy",
+      "displayName": "Droppy",
+      "png": "png/droppy.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "duckduckgo",
+      "displayName": "Duckduckgo",
+      "png": "png/duckduckgo.png",
+      "svg": "svg/duckduckgo.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "duplicacy",
+      "displayName": "Duplicacy",
+      "png": "png/duplicacy.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "duplicati",
+      "displayName": "Duplicati",
+      "png": "png/duplicati.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ebay",
+      "displayName": "Ebay",
+      "png": "png/ebay.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "edge",
+      "displayName": "Edge",
+      "png": "png/edge.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "elastic",
+      "displayName": "Elastic",
+      "png": "png/elastic.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "elasticsearch",
+      "displayName": "Elasticsearch",
+      "png": "png/elasticsearch.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "electron",
+      "displayName": "Electron",
+      "png": "png/electron.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "element",
+      "displayName": "Element",
+      "png": "png/element.png",
+      "svg": "svg/element.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "emby",
+      "displayName": "Emby",
+      "png": "png/emby.png",
+      "svg": "svg/emby.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "embystat",
+      "displayName": "Embystat",
+      "png": "png/embystat.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "emq",
+      "displayName": "Emq",
+      "png": "png/emq.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ersatztv",
+      "displayName": "Ersatztv",
+      "png": "png/ersatztv.png",
+      "svg": "svg/ersatztv.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "erste-george",
+      "displayName": "Erste George",
+      "png": "png/erste-george.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "erste",
+      "displayName": "Erste",
+      "png": "png/erste.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "esphome",
+      "displayName": "Esphome",
+      "png": "png/esphome.png",
+      "svg": "svg/esphome.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "evebox",
+      "displayName": "Evebox",
+      "png": "png/evebox.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "facebook-messenger",
+      "displayName": "Facebook Messenger",
+      "png": "png/facebook-messenger.png",
+      "svg": "svg/facebook-messenger.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "facebook",
+      "displayName": "Facebook",
+      "png": "png/facebook.png",
+      "svg": "svg/facebook.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "fasten",
+      "displayName": "Fasten",
+      "png": "png/fasten.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "fedex",
+      "displayName": "Fedex",
+      "png": "png/fedex.png",
+      "svg": "svg/fedex.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "fediverse",
+      "displayName": "Fediverse",
+      "png": "png/fediverse.png",
+      "svg": "svg/fediverse.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "fedora",
+      "displayName": "Fedora",
+      "png": "png/fedora.png",
+      "svg": "svg/fedora.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "filebrowser",
+      "displayName": "Filebrowser",
+      "png": "png/filebrowser.png",
+      "svg": "svg/filebrowser.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "fileflows",
+      "displayName": "Fileflows",
+      "png": "png/fileflows.png",
+      "svg": "svg/fileflows.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "filerun",
+      "displayName": "Filerun",
+      "png": "png/filerun.png",
+      "svg": "svg/filerun.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "firefly-iii",
+      "displayName": "Firefly Iii",
+      "png": "png/firefly-iii.png",
+      "svg": "svg/firefly-iii.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "firefox-nightly",
+      "displayName": "Firefox Nightly",
+      "png": "png/firefox-nightly.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "firefox",
+      "displayName": "Firefox",
+      "png": "png/firefox.png",
+      "svg": "svg/firefox.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "firefoxsend",
+      "displayName": "Firefoxsend",
+      "png": "png/firefoxsend.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "flaresolverr",
+      "displayName": "Flaresolverr",
+      "png": "png/flaresolverr.png",
+      "svg": "svg/flaresolverr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "flexget",
+      "displayName": "Flexget",
+      "png": "png/flexget.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "flood",
+      "displayName": "Flood",
+      "png": "png/flood.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "foldingathome",
+      "displayName": "Foldingathome",
+      "png": "png/foldingathome.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "freeipa",
+      "displayName": "Freeipa",
+      "png": "png/freeipa.png",
+      "svg": "svg/freeipa.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "freenas",
+      "displayName": "Freenas",
+      "png": "png/freenas.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "freepbx",
+      "displayName": "Freepbx",
+      "png": "png/freepbx.png",
+      "svg": "svg/freepbx.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "freescout",
+      "displayName": "Freescout",
+      "png": "png/freescout.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "freshrss",
+      "displayName": "Freshrss",
+      "png": "png/freshrss.png",
+      "svg": "svg/freshrss.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "ghost",
+      "displayName": "Ghost",
+      "png": "png/ghost.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "gimp",
+      "displayName": "Gimp",
+      "png": "png/gimp.png",
+      "svg": "svg/gimp.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "gitea",
+      "displayName": "Gitea",
+      "png": "png/gitea.png",
+      "svg": "svg/gitea.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "github",
+      "displayName": "Github",
+      "png": "png/github.png",
+      "svg": "svg/github.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "gitlab",
+      "displayName": "Gitlab",
+      "png": "png/gitlab.png",
+      "svg": "svg/gitlab.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "glances",
+      "displayName": "Glances",
+      "png": "png/glances.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "gmail",
+      "displayName": "Gmail",
+      "png": "png/gmail.png",
+      "svg": "svg/gmail.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "gogs",
+      "displayName": "Gogs",
+      "png": "png/gogs.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "google-analytics",
+      "displayName": "Google Analytics",
+      "png": "png/google-analytics.png",
+      "svg": "svg/google-analytics.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "google-calendar",
+      "displayName": "Google Calendar",
+      "png": "png/google-calendar.png",
+      "svg": "svg/google-calendar.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "google-contacts",
+      "displayName": "Google Contacts",
+      "png": "png/google-contacts.png",
+      "svg": "svg/google-contacts.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "google-drive",
+      "displayName": "Google Drive",
+      "png": "png/google-drive.png",
+      "svg": "svg/google-drive.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "google-gemini",
+      "displayName": "Google Gemini",
+      "png": "png/google-gemini.png",
+      "svg": "svg/google-gemini.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "google-home",
+      "displayName": "Google Home",
+      "png": "png/google-home.png",
+      "svg": "svg/google-home.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "google-keep",
+      "displayName": "Google Keep",
+      "png": "png/google-keep.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "google-maps",
+      "displayName": "Google Maps",
+      "png": "png/google-maps.png",
+      "svg": "svg/google-maps.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "google-photos",
+      "displayName": "Google Photos",
+      "png": "png/google-photos.png",
+      "svg": "svg/google-photos.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "google-play",
+      "displayName": "Google Play",
+      "png": "png/google-play.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "google",
+      "displayName": "Google",
+      "png": "png/google.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "gotify",
+      "displayName": "Gotify",
+      "png": "png/gotify.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "grafana",
+      "displayName": "Grafana",
+      "png": "png/grafana.png",
+      "svg": "svg/grafana.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "grapheneos",
+      "displayName": "Grapheneos",
+      "png": "png/grapheneos.png",
+      "svg": "svg/grapheneos.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "grav",
+      "displayName": "Grav",
+      "png": "png/grav.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "graylog",
+      "displayName": "Graylog",
+      "png": "png/graylog.png",
+      "svg": "svg/graylog.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "grocy",
+      "displayName": "Grocy",
+      "png": "png/grocy.png",
+      "svg": "svg/grocy.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "guacamole",
+      "displayName": "Guacamole",
+      "png": "png/guacamole.png",
+      "svg": "svg/guacamole.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "handbrake",
+      "displayName": "Handbrake",
+      "png": "png/handbrake.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "haproxy",
+      "displayName": "Haproxy",
+      "png": "png/haproxy.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "harbor",
+      "displayName": "Harbor",
+      "png": "png/harbor.png",
+      "svg": "svg/harbor.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "hasura",
+      "displayName": "Hasura",
+      "png": "png/hasura.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "hdhomerun",
+      "displayName": "Hdhomerun",
+      "png": "png/hdhomerun.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "headphones",
+      "displayName": "Headphones",
+      "png": "png/headphones.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "healthchecks",
+      "displayName": "Healthchecks",
+      "png": "png/healthchecks.png",
+      "svg": "svg/healthchecks.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "hedgedoc",
+      "displayName": "Hedgedoc",
+      "png": "png/hedgedoc.png",
+      "svg": "svg/hedgedoc.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "heimdall",
+      "displayName": "Heimdall",
+      "png": "png/heimdall.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "hoarder",
+      "displayName": "Hoarder",
+      "png": "png/hoarder.png",
+      "svg": "svg/hoarder.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "home-assistant",
+      "displayName": "Home Assistant",
+      "png": "png/home-assistant.png",
+      "svg": "svg/home-assistant.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "homebox",
+      "displayName": "Homebox",
+      "png": "png/homebox.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "homebridge",
+      "displayName": "Homebridge",
+      "png": "png/homebridge.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "homer",
+      "displayName": "Homer",
+      "png": "png/homer.png",
+      "svg": "svg/homer.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "hp",
+      "displayName": "Hp",
+      "png": "png/hp.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "html",
+      "displayName": "Html",
+      "png": "png/html.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "hubitat",
+      "displayName": "Hubitat",
+      "png": "png/hubitat.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "huginn",
+      "displayName": "Huginn",
+      "png": "png/huginn.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "hugo",
+      "displayName": "Hugo",
+      "png": "png/hugo.png",
+      "svg": "svg/hugo.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "hydra",
+      "displayName": "Hydra",
+      "png": "png/hydra.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "icecast",
+      "displayName": "Icecast",
+      "png": "png/icecast.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "icinga",
+      "displayName": "Icinga",
+      "png": "png/icinga.png",
+      "svg": "svg/icinga.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "idrac",
+      "displayName": "Idrac",
+      "png": "png/idrac.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ilo",
+      "displayName": "Ilo",
+      "png": "png/ilo.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "immich-frame",
+      "displayName": "Immich Frame",
+      "png": "png/immich-frame.png",
+      "svg": "svg/immich-frame.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "immich-kiosk",
+      "displayName": "Immich Kiosk",
+      "png": "png/immich-kiosk.png",
+      "svg": "svg/immich-kiosk.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "immich-power-tools",
+      "displayName": "Immich Power Tools",
+      "png": "png/immich-power-tools.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "immich-public-proxy",
+      "displayName": "Immich Public Proxy",
+      "png": "png/immich-public-proxy.png",
+      "svg": "svg/immich-public-proxy.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "immich",
+      "displayName": "Immich",
+      "png": "png/immich.png",
+      "svg": "svg/immich.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "influxdb",
+      "displayName": "Influxdb",
+      "png": "png/influxdb.png",
+      "svg": "svg/influxdb.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "infoblox",
+      "displayName": "Infoblox",
+      "png": "png/infoblox.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "instagram",
+      "displayName": "Instagram",
+      "png": "png/instagram.png",
+      "svg": "svg/instagram.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "invidious",
+      "displayName": "Invidious",
+      "png": "png/invidious.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "invoice-ninja",
+      "displayName": "Invoice Ninja",
+      "png": "png/invoice-ninja.png",
+      "svg": "svg/invoice-ninja.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "invoiceninja",
+      "displayName": "Invoiceninja",
+      "png": "png/invoiceninja.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "iobroker",
+      "displayName": "Iobroker",
+      "png": "png/iobroker.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "irc",
+      "displayName": "Irc",
+      "png": "png/irc.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ittools",
+      "displayName": "Ittools",
+      "png": "png/ittools.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "jackett",
+      "displayName": "Jackett",
+      "png": "png/jackett.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "jaeger",
+      "displayName": "Jaeger",
+      "png": "png/jaeger.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "jdownloader",
+      "displayName": "Jdownloader",
+      "png": "png/jdownloader.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "jeedom",
+      "displayName": "Jeedom",
+      "png": "png/jeedom.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "jellyfin",
+      "displayName": "Jellyfin",
+      "png": "png/jellyfin.png",
+      "svg": "svg/jellyfin.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "jellyseerr",
+      "displayName": "Jellyseerr",
+      "png": "png/jellyseerr.png",
+      "svg": "svg/jellyseerr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "jellystat",
+      "displayName": "Jellystat",
+      "png": "png/jellystat.png",
+      "svg": "svg/jellystat.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "jenkins",
+      "displayName": "Jenkins",
+      "png": "png/jenkins.png",
+      "svg": "svg/jenkins.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "jitsi-meet",
+      "displayName": "Jitsi Meet",
+      "png": "png/jitsi-meet.png",
+      "svg": "svg/jitsi-meet.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "jitsimeet",
+      "displayName": "Jitsimeet",
+      "png": "png/jitsimeet.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "joomla",
+      "displayName": "Joomla",
+      "png": "png/joomla.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "joplin",
+      "displayName": "Joplin",
+      "png": "png/joplin.png",
+      "svg": "svg/joplin.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "kanboard",
+      "displayName": "Kanboard",
+      "png": "png/kanboard.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "kavita",
+      "displayName": "Kavita",
+      "png": "png/kavita.png",
+      "svg": "svg/kavita.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "keila",
+      "displayName": "Keila",
+      "png": "png/keila.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "keycloak",
+      "displayName": "Keycloak",
+      "png": "png/keycloak.png",
+      "svg": "svg/keycloak.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "kibana",
+      "displayName": "Kibana",
+      "png": "png/kibana.png",
+      "svg": "svg/kibana.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "kimai",
+      "displayName": "Kimai",
+      "png": "png/kimai.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "kitana",
+      "displayName": "Kitana",
+      "png": "png/kitana.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "kodi",
+      "displayName": "Kodi",
+      "png": "png/kodi.png",
+      "svg": "svg/kodi.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "kometa",
+      "displayName": "Kometa",
+      "png": "png/kometa.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "komga",
+      "displayName": "Komga",
+      "png": "png/komga.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "krusader",
+      "displayName": "Krusader",
+      "png": "png/krusader.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "kubernetes",
+      "displayName": "Kubernetes",
+      "png": "png/kubernetes.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "kutt",
+      "displayName": "Kutt",
+      "png": "png/kutt.png",
+      "svg": "svg/kutt.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "lancache",
+      "displayName": "Lancache",
+      "png": "png/lancache.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "lastpass",
+      "displayName": "Lastpass",
+      "png": "png/lastpass.png",
+      "svg": "svg/lastpass.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "lazylibrarian",
+      "displayName": "Lazylibrarian",
+      "png": "png/lazylibrarian.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "leantime",
+      "displayName": "Leantime",
+      "png": "png/leantime.png",
+      "svg": "svg/leantime.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "lemonldapng",
+      "displayName": "Lemonldapng",
+      "png": "png/lemonldapng.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "lets-encrypt",
+      "displayName": "Lets Encrypt",
+      "png": "png/lets-encrypt.png",
+      "svg": "svg/lets-encrypt.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "librenms",
+      "displayName": "Librenms",
+      "png": "png/librenms.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "librephotos",
+      "displayName": "Librephotos",
+      "png": "png/librephotos.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "librespeed",
+      "displayName": "Librespeed",
+      "png": "png/librespeed.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "lidarr",
+      "displayName": "Lidarr",
+      "png": "png/lidarr.png",
+      "svg": "svg/lidarr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "lidatube",
+      "displayName": "Lidatube",
+      "png": "png/lidatube.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "linkace",
+      "displayName": "Linkace",
+      "png": "png/linkace.png",
+      "svg": "svg/linkace.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "linkding",
+      "displayName": "Linkding",
+      "png": "png/linkding.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "linkedin",
+      "displayName": "Linkedin",
+      "png": "png/linkedin.png",
+      "svg": "svg/linkedin.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "linkwarden",
+      "displayName": "Linkwarden",
+      "png": "png/linkwarden.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "linux",
+      "displayName": "Linux",
+      "png": "png/linux.png",
+      "svg": "svg/linux.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "linuxcontainers",
+      "displayName": "Linuxcontainers",
+      "png": "png/linuxcontainers.png",
+      "svg": "svg/linuxcontainers.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "linuxserver-io",
+      "displayName": "Linuxserver Io",
+      "png": "png/linuxserver-io.png",
+      "svg": "svg/linuxserver-io.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "listmonk",
+      "displayName": "Listmonk",
+      "png": "png/listmonk.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "logstash",
+      "displayName": "Logstash",
+      "png": "png/logstash.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "loki",
+      "displayName": "Loki",
+      "png": "png/loki.png",
+      "svg": "svg/loki.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "longhorn",
+      "displayName": "Longhorn",
+      "png": "png/longhorn.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "lunasea",
+      "displayName": "Lunasea",
+      "png": "png/lunasea.png",
+      "svg": "svg/lunasea.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "lychee",
+      "displayName": "Lychee",
+      "png": "png/lychee.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mailchimp",
+      "displayName": "Mailchimp",
+      "png": "png/mailchimp.png",
+      "svg": "svg/mailchimp.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "mailcow",
+      "displayName": "Mailcow",
+      "png": "png/mailcow.png",
+      "svg": "svg/mailcow.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "mailhog",
+      "displayName": "Mailhog",
+      "png": "png/mailhog.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mainsail",
+      "displayName": "Mainsail",
+      "png": "png/mainsail.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mak",
+      "displayName": "Mak",
+      "png": "png/mak.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mastodon",
+      "displayName": "Mastodon",
+      "png": "png/mastodon.png",
+      "svg": "svg/mastodon.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "matrix",
+      "displayName": "Matrix",
+      "png": "png/matrix.png",
+      "svg": "svg/matrix.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "matter",
+      "displayName": "Matter",
+      "png": "png/matter.png",
+      "svg": "svg/matter.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "mattermost",
+      "displayName": "Mattermost",
+      "png": "png/mattermost.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mayanedms",
+      "displayName": "Mayanedms",
+      "png": "png/mayanedms.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mcmyadmin",
+      "displayName": "Mcmyadmin",
+      "png": "png/mcmyadmin.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mealie",
+      "displayName": "Mealie",
+      "png": "png/mealie.png",
+      "svg": "svg/mealie.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "mediawiki",
+      "displayName": "Mediawiki",
+      "png": "png/mediawiki.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "medusa",
+      "displayName": "Medusa",
+      "png": "png/medusa.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "meraki",
+      "displayName": "Meraki",
+      "png": "png/meraki.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "meshtastic",
+      "displayName": "Meshtastic",
+      "png": "png/meshtastic.png",
+      "svg": "svg/meshtastic.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-365",
+      "displayName": "Microsoft 365",
+      "png": "png/microsoft-365.png",
+      "svg": "svg/microsoft-365.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-access",
+      "displayName": "Microsoft Access",
+      "png": "png/microsoft-access.png",
+      "svg": "svg/microsoft-access.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-bing",
+      "displayName": "Microsoft Bing",
+      "png": "png/microsoft-bing.png",
+      "svg": "svg/microsoft-bing.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-copilot",
+      "displayName": "Microsoft Copilot",
+      "png": "png/microsoft-copilot.png",
+      "svg": "svg/microsoft-copilot.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-edge",
+      "displayName": "Microsoft Edge",
+      "png": "png/microsoft-edge.png",
+      "svg": "svg/microsoft-edge.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-excel",
+      "displayName": "Microsoft Excel",
+      "png": "png/microsoft-excel.png",
+      "svg": "svg/microsoft-excel.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-onedrive",
+      "displayName": "Microsoft Onedrive",
+      "png": "png/microsoft-onedrive.png",
+      "svg": "svg/microsoft-onedrive.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-onenote",
+      "displayName": "Microsoft Onenote",
+      "png": "png/microsoft-onenote.png",
+      "svg": "svg/microsoft-onenote.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-outlook",
+      "displayName": "Microsoft Outlook",
+      "png": "png/microsoft-outlook.png",
+      "svg": "svg/microsoft-outlook.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-powerpoint",
+      "displayName": "Microsoft Powerpoint",
+      "png": "png/microsoft-powerpoint.png",
+      "svg": "svg/microsoft-powerpoint.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-powertoys",
+      "displayName": "Microsoft Powertoys",
+      "png": "png/microsoft-powertoys.png",
+      "svg": "svg/microsoft-powertoys.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-sharepoint",
+      "displayName": "Microsoft Sharepoint",
+      "png": "png/microsoft-sharepoint.png",
+      "svg": "svg/microsoft-sharepoint.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-teams",
+      "displayName": "Microsoft Teams",
+      "png": "png/microsoft-teams.png",
+      "svg": "svg/microsoft-teams.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-to-do",
+      "displayName": "Microsoft To Do",
+      "png": "png/microsoft-to-do.png",
+      "svg": "svg/microsoft-to-do.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-windows",
+      "displayName": "Microsoft Windows",
+      "png": "png/microsoft-windows.png",
+      "svg": "svg/microsoft-windows.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft-word",
+      "displayName": "Microsoft Word",
+      "png": "png/microsoft-word.png",
+      "svg": "svg/microsoft-word.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "microsoft",
+      "displayName": "Microsoft",
+      "png": "png/microsoft.png",
+      "svg": "svg/microsoft.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "mikrotik",
+      "displayName": "Mikrotik",
+      "png": "png/mikrotik.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mineos",
+      "displayName": "Mineos",
+      "png": "png/mineos.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "miniflux",
+      "displayName": "Miniflux",
+      "png": "png/miniflux.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "minio",
+      "displayName": "Minio",
+      "png": "png/minio.png",
+      "svg": "svg/minio.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "mkdocs",
+      "displayName": "Mkdocs",
+      "png": "png/mkdocs.png",
+      "svg": "svg/mkdocs.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "molecule",
+      "displayName": "Molecule",
+      "png": "png/molecule.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mongodb",
+      "displayName": "Mongodb",
+      "png": "png/mongodb.png",
+      "svg": "svg/mongodb.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "monica",
+      "displayName": "Monica",
+      "png": "png/monica.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "monit",
+      "displayName": "Monit",
+      "png": "png/monit.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "motioneye",
+      "displayName": "Motioneye",
+      "png": "png/motioneye.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mqtt",
+      "displayName": "Mqtt",
+      "png": "png/mqtt.png",
+      "svg": "svg/mqtt.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "mumble",
+      "displayName": "Mumble",
+      "png": "png/mumble.png",
+      "svg": "svg/mumble.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "music-assistant",
+      "displayName": "Music Assistant",
+      "png": "png/music-assistant.png",
+      "svg": "svg/music-assistant.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "mylar",
+      "displayName": "Mylar",
+      "png": "png/mylar.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "mysql",
+      "displayName": "Mysql",
+      "png": "png/mysql.png",
+      "svg": "svg/mysql.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "n8n",
+      "displayName": "N8N",
+      "png": "png/n8n.png",
+      "svg": "svg/n8n.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "nagios",
+      "displayName": "Nagios",
+      "png": "png/nagios.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "namecheap",
+      "displayName": "Namecheap",
+      "png": "png/namecheap.png",
+      "svg": "svg/namecheap.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "navidrome",
+      "displayName": "Navidrome",
+      "png": "png/navidrome.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ncore",
+      "displayName": "Ncore",
+      "png": "png/ncore.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "nessus",
+      "displayName": "Nessus",
+      "png": "png/nessus.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "netatmo",
+      "displayName": "Netatmo",
+      "png": "png/netatmo.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "netboot-xyz",
+      "displayName": "Netboot Xyz",
+      "png": "png/netboot-xyz.png",
+      "svg": "svg/netboot-xyz.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "netboot",
+      "displayName": "Netboot",
+      "png": "png/netboot.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "netbox",
+      "displayName": "Netbox",
+      "png": "png/netbox.png",
+      "svg": "svg/netbox.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "netdata",
+      "displayName": "Netdata",
+      "png": "png/netdata.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "nextcloud",
+      "displayName": "Nextcloud",
+      "png": "png/nextcloud.png",
+      "svg": "svg/nextcloud.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "nginx",
+      "displayName": "Nginx",
+      "png": "png/nginx.png",
+      "svg": "svg/nginx.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "nginxproxymanager",
+      "displayName": "Nginxproxymanager",
+      "png": "png/nginxproxymanager.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "nintendo-switch",
+      "displayName": "Nintendo Switch",
+      "png": "png/nintendo-switch.png",
+      "svg": "svg/nintendo-switch.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "nixos",
+      "displayName": "Nixos",
+      "png": "png/nixos.png",
+      "svg": "svg/nixos.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "nodered",
+      "displayName": "Nodered",
+      "png": "png/nodered.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "notion",
+      "displayName": "Notion",
+      "png": "png/notion.png",
+      "svg": "svg/notion.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "nowshowing",
+      "displayName": "Nowshowing",
+      "png": "png/nowshowing.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ntop",
+      "displayName": "Ntop",
+      "png": "png/ntop.png",
+      "svg": "svg/ntop.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "nvidia",
+      "displayName": "Nvidia",
+      "png": "png/nvidia.png",
+      "svg": "svg/nvidia.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "nxfilter",
+      "displayName": "Nxfilter",
+      "png": "png/nxfilter.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "nzbget",
+      "displayName": "Nzbget",
+      "png": "png/nzbget.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "nzbhydra",
+      "displayName": "Nzbhydra",
+      "png": "png/nzbhydra.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "obsidian",
+      "displayName": "Obsidian",
+      "png": "png/obsidian.png",
+      "svg": "svg/obsidian.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "octoprint",
+      "displayName": "Octoprint",
+      "png": "png/octoprint.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "omada",
+      "displayName": "Omada",
+      "png": "png/omada.png",
+      "svg": "svg/omada.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "ombi",
+      "displayName": "Ombi",
+      "png": "png/ombi.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "omnidb",
+      "displayName": "Omnidb",
+      "png": "png/omnidb.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "onlyoffice",
+      "displayName": "Onlyoffice",
+      "png": "png/onlyoffice.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "openhab",
+      "displayName": "Openhab",
+      "png": "png/openhab.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "openmaptiler",
+      "displayName": "Openmaptiler",
+      "png": "png/openmaptiler.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "openmediavault",
+      "displayName": "Openmediavault",
+      "png": "png/openmediavault.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "openspeedtest",
+      "displayName": "Openspeedtest",
+      "png": "png/openspeedtest.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "opensprinkler",
+      "displayName": "Opensprinkler",
+      "png": "png/opensprinkler.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "openvpn",
+      "displayName": "Openvpn",
+      "png": "png/openvpn.png",
+      "svg": "svg/openvpn.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "openwrt",
+      "displayName": "Openwrt",
+      "png": "png/openwrt.png",
+      "svg": "svg/openwrt.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "openzfs",
+      "displayName": "Openzfs",
+      "png": "png/openzfs.png",
+      "svg": "svg/openzfs.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "opera",
+      "displayName": "Opera",
+      "png": "png/opera.png",
+      "svg": "svg/opera.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "opnsense",
+      "displayName": "Opnsense",
+      "png": "png/opnsense.png",
+      "svg": "svg/opnsense.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "osticket",
+      "displayName": "Osticket",
+      "png": "png/osticket.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "overseerr",
+      "displayName": "Overseerr",
+      "png": "png/overseerr.png",
+      "svg": "svg/overseerr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "owncloud",
+      "displayName": "Owncloud",
+      "png": "png/owncloud.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ownphotos",
+      "displayName": "Ownphotos",
+      "png": "png/ownphotos.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pagerduty",
+      "displayName": "Pagerduty",
+      "png": "png/pagerduty.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "paloaltonetworks",
+      "displayName": "Paloaltonetworks",
+      "png": "png/paloaltonetworks.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "paperless-ai",
+      "displayName": "Paperless Ai",
+      "png": "png/paperless-ai.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "paperless-ng",
+      "displayName": "Paperless Ng",
+      "png": "png/paperless-ng.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "papermerge",
+      "displayName": "Papermerge",
+      "png": "png/papermerge.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "partkeepr",
+      "displayName": "Partkeepr",
+      "png": "png/partkeepr.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "peertube",
+      "displayName": "Peertube",
+      "png": "png/peertube.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pfsense",
+      "displayName": "Pfsense",
+      "png": "png/pfsense.png",
+      "svg": "svg/pfsense.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "pgadmin",
+      "displayName": "Pgadmin",
+      "png": "png/pgadmin.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "phantombot",
+      "displayName": "Phantombot",
+      "png": "png/phantombot.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "photoprism",
+      "displayName": "Photoprism",
+      "png": "png/photoprism.png",
+      "svg": "svg/photoprism.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "photostructure",
+      "displayName": "Photostructure",
+      "png": "png/photostructure.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "photoview",
+      "displayName": "Photoview",
+      "png": "png/photoview.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "phpldapadmin",
+      "displayName": "Phpldapadmin",
+      "png": "png/phpldapadmin.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "phpmyadmin",
+      "displayName": "Phpmyadmin",
+      "png": "png/phpmyadmin.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pi-hole",
+      "displayName": "Pi Hole",
+      "png": "png/pi-hole.png",
+      "svg": "svg/pi-hole.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "piaware",
+      "displayName": "Piaware",
+      "png": "png/piaware.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pihole",
+      "displayName": "Pihole",
+      "png": "png/pihole.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pinchflat",
+      "displayName": "Pinchflat",
+      "png": "png/pinchflat.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pingdom",
+      "displayName": "Pingdom",
+      "png": "png/pingdom.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pinterest",
+      "displayName": "Pinterest",
+      "png": "png/pinterest.png",
+      "svg": "svg/pinterest.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "piped",
+      "displayName": "Piped",
+      "png": "png/piped.png",
+      "svg": "svg/piped.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "piwigo",
+      "displayName": "Piwigo",
+      "png": "png/piwigo.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pixelfed",
+      "displayName": "Pixelfed",
+      "png": "png/pixelfed.png",
+      "svg": "svg/pixelfed.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "plausible",
+      "displayName": "Plausible",
+      "png": "png/plausible.png",
+      "svg": "svg/plausible.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "playstation",
+      "displayName": "Playstation",
+      "png": "png/playstation.png",
+      "svg": "svg/playstation.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "pleroma",
+      "displayName": "Pleroma",
+      "png": "png/pleroma.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "plesk",
+      "displayName": "Plesk",
+      "png": "png/plesk.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "plex",
+      "displayName": "Plex",
+      "png": "png/plex.png",
+      "svg": "svg/plex.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "plexdrive",
+      "displayName": "Plexdrive",
+      "png": "png/plexdrive.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "plexrequests",
+      "displayName": "Plexrequests",
+      "png": "png/plexrequests.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "plume",
+      "displayName": "Plume",
+      "png": "png/plume.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "podify",
+      "displayName": "Podify",
+      "png": "png/podify.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "porkbun",
+      "displayName": "Porkbun",
+      "png": "png/porkbun.png",
+      "svg": "svg/porkbun.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "portainer",
+      "displayName": "Portainer",
+      "png": "png/portainer.png",
+      "svg": "svg/portainer.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "portus",
+      "displayName": "Portus",
+      "png": "png/portus.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "postgresql",
+      "displayName": "Postgresql",
+      "png": "png/postgresql.png",
+      "svg": "svg/postgresql.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "postiz",
+      "displayName": "Postiz",
+      "png": "png/postiz.png",
+      "svg": "svg/postiz.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "printer",
+      "displayName": "Printer",
+      "png": "png/printer.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "privatebin",
+      "displayName": "Privatebin",
+      "png": "png/privatebin.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "projectsend",
+      "displayName": "Projectsend",
+      "png": "png/projectsend.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "prometheus",
+      "displayName": "Prometheus",
+      "png": "png/prometheus.png",
+      "svg": "svg/prometheus.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "proton-calendar",
+      "displayName": "Proton Calendar",
+      "png": "png/proton-calendar.png",
+      "svg": "svg/proton-calendar.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "proton-drive",
+      "displayName": "Proton Drive",
+      "png": "png/proton-drive.png",
+      "svg": "svg/proton-drive.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "proton-pass",
+      "displayName": "Proton Pass",
+      "png": "png/proton-pass.png",
+      "svg": "svg/proton-pass.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "proton-vpn",
+      "displayName": "Proton Vpn",
+      "png": "png/proton-vpn.png",
+      "svg": "svg/proton-vpn.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "proton-wallet",
+      "displayName": "Proton Wallet",
+      "png": "png/proton-wallet.png",
+      "svg": "svg/proton-wallet.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "protonmail",
+      "displayName": "Protonmail",
+      "png": "png/protonmail.png",
+      "svg": "svg/protonmail.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "prowlarr",
+      "displayName": "Prowlarr",
+      "png": "png/prowlarr.png",
+      "svg": "svg/prowlarr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "proxmox",
+      "displayName": "Proxmox",
+      "png": "png/proxmox.png",
+      "svg": "svg/proxmox.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "prtg",
+      "displayName": "Prtg",
+      "png": "png/prtg.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "psitransfer",
+      "displayName": "Psitransfer",
+      "png": "png/psitransfer.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pterodactyl",
+      "displayName": "Pterodactyl",
+      "png": "png/pterodactyl.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "pushover",
+      "displayName": "Pushover",
+      "png": "png/pushover.png",
+      "svg": "svg/pushover.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "pyload",
+      "displayName": "Pyload",
+      "png": "png/pyload.png",
+      "svg": "svg/pyload.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "qbittorrent",
+      "displayName": "Qbittorrent",
+      "png": "png/qbittorrent.png",
+      "svg": "svg/qbittorrent.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "qnap",
+      "displayName": "Qnap",
+      "png": "png/qnap.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rabbitmq",
+      "displayName": "Rabbitmq",
+      "png": "png/rabbitmq.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "radarr",
+      "displayName": "Radarr",
+      "png": "png/radarr.png",
+      "svg": "svg/radarr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "rainloop",
+      "displayName": "Rainloop",
+      "png": "png/rainloop.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rancher",
+      "displayName": "Rancher",
+      "png": "png/rancher.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "raneto",
+      "displayName": "Raneto",
+      "png": "png/raneto.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "raspap",
+      "displayName": "Raspap",
+      "png": "png/raspap.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "raspberry-pi",
+      "displayName": "Raspberry Pi",
+      "png": "png/raspberry-pi.png",
+      "svg": "svg/raspberry-pi.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "rclone",
+      "displayName": "Rclone",
+      "png": "png/rclone.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "readarr",
+      "displayName": "Readarr",
+      "png": "png/readarr.png",
+      "svg": "svg/readarr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "recalbox",
+      "displayName": "Recalbox",
+      "png": "png/recalbox.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "reddit",
+      "displayName": "Reddit",
+      "png": "png/reddit.png",
+      "svg": "svg/reddit.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "redis",
+      "displayName": "Redis",
+      "png": "png/redis.png",
+      "svg": "svg/redis.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "requestrr",
+      "displayName": "Requestrr",
+      "png": "png/requestrr.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "resiliosync",
+      "displayName": "Resiliosync",
+      "png": "png/resiliosync.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "riot",
+      "displayName": "Riot",
+      "png": "png/riot.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rocketchat",
+      "displayName": "Rocketchat",
+      "png": "png/rocketchat.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rompya",
+      "displayName": "Rompya",
+      "png": "png/rompya.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rook",
+      "displayName": "Rook",
+      "png": "png/rook.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "roundcube",
+      "displayName": "Roundcube",
+      "png": "png/roundcube.png",
+      "svg": "svg/roundcube.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "router",
+      "displayName": "Router",
+      "png": "png/router.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rspamd",
+      "displayName": "Rspamd",
+      "png": "png/rspamd.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rstudioserver",
+      "displayName": "Rstudioserver",
+      "png": "png/rstudioserver.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rundeck",
+      "displayName": "Rundeck",
+      "png": "png/rundeck.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "runeaudio",
+      "displayName": "Runeaudio",
+      "png": "png/runeaudio.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "rutorrent",
+      "displayName": "Rutorrent",
+      "png": "png/rutorrent.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "sabnzbd",
+      "displayName": "Sabnzbd",
+      "png": "png/sabnzbd.png",
+      "svg": "svg/sabnzbd.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "safari",
+      "displayName": "Safari",
+      "png": "png/safari.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "scrutiny",
+      "displayName": "Scrutiny",
+      "png": "png/scrutiny.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "seafile",
+      "displayName": "Seafile",
+      "png": "png/seafile.png",
+      "svg": "svg/seafile.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "searxmetasearchengine",
+      "displayName": "Searxmetasearchengine",
+      "png": "png/searxmetasearchengine.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "serviio",
+      "displayName": "Serviio",
+      "png": "png/serviio.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "shaarli",
+      "displayName": "Shaarli",
+      "png": "png/shaarli.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "shinobi",
+      "displayName": "Shinobi",
+      "png": "png/shinobi.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "shlink",
+      "displayName": "Shlink",
+      "png": "png/shlink.png",
+      "svg": "svg/shlink.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "sickbeard",
+      "displayName": "Sickbeard",
+      "png": "png/sickbeard.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "sickchill",
+      "displayName": "Sickchill",
+      "png": "png/sickchill.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "sickgear",
+      "displayName": "Sickgear",
+      "png": "png/sickgear.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "signal",
+      "displayName": "Signal",
+      "png": "png/signal.png",
+      "svg": "svg/signal.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "sinusbot",
+      "displayName": "Sinusbot",
+      "png": "png/sinusbot.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "skype",
+      "displayName": "Skype",
+      "png": "png/skype.png",
+      "svg": "svg/skype.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "slack",
+      "displayName": "Slack",
+      "png": "png/slack.png",
+      "svg": "svg/slack.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "snapchat",
+      "displayName": "Snapchat",
+      "png": "png/snapchat.png",
+      "svg": "svg/snapchat.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "snibox",
+      "displayName": "Snibox",
+      "png": "png/snibox.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "sogo",
+      "displayName": "Sogo",
+      "png": "png/sogo.png",
+      "svg": "svg/sogo.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "sonarqube",
+      "displayName": "Sonarqube",
+      "png": "png/sonarqube.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "sonarr-radarr",
+      "displayName": "Sonarr Radarr",
+      "png": "png/sonarr-radarr.png",
+      "svg": "svg/sonarr-radarr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "sonarr",
+      "displayName": "Sonarr",
+      "png": "png/sonarr.png",
+      "svg": "svg/sonarr.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "sourcegraph",
+      "displayName": "Sourcegraph",
+      "png": "png/sourcegraph.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "splunk",
+      "displayName": "Splunk",
+      "png": "png/splunk.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "spotweb",
+      "displayName": "Spotweb",
+      "png": "png/spotweb.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "squidex",
+      "displayName": "Squidex",
+      "png": "png/squidex.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "statping",
+      "displayName": "Statping",
+      "png": "png/statping.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "steam",
+      "displayName": "Steam",
+      "png": "png/steam.png",
+      "svg": "svg/steam.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "step-ca",
+      "displayName": "Step Ca",
+      "png": "png/step-ca.png",
+      "svg": "svg/step-ca.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "strapi",
+      "displayName": "Strapi",
+      "png": "png/strapi.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "streama",
+      "displayName": "Streama",
+      "png": "png/streama.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "suggestarr",
+      "displayName": "Suggestarr",
+      "png": "png/suggestarr.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "synapse",
+      "displayName": "Synapse",
+      "png": "png/synapse.png",
+      "svg": "svg/synapse.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "synclounge",
+      "displayName": "Synclounge",
+      "png": "png/synclounge.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "syncthing",
+      "displayName": "Syncthing",
+      "png": "png/syncthing.png",
+      "svg": "svg/syncthing.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "synology",
+      "displayName": "Synology",
+      "png": "png/synology.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "taiga",
+      "displayName": "Taiga",
+      "png": "png/taiga.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "tailscale",
+      "displayName": "Tailscale",
+      "png": "png/tailscale.png",
+      "svg": "svg/tailscale.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "tandoorrecipes",
+      "displayName": "Tandoorrecipes",
+      "png": "png/tandoorrecipes.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "tasmoadmin",
+      "displayName": "Tasmoadmin",
+      "png": "png/tasmoadmin.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "tasmota",
+      "displayName": "Tasmota",
+      "png": "png/tasmota.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "tautulli",
+      "displayName": "Tautulli",
+      "png": "png/tautulli.png",
+      "svg": "svg/tautulli.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "tdarr",
+      "displayName": "Tdarr",
+      "png": "png/tdarr.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "teedy",
+      "displayName": "Teedy",
+      "png": "png/teedy.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "telegram",
+      "displayName": "Telegram",
+      "png": "png/telegram.png",
+      "svg": "svg/telegram.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "terraform",
+      "displayName": "Terraform",
+      "png": "png/terraform.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "thanos",
+      "displayName": "Thanos",
+      "png": "png/thanos.png",
+      "svg": "svg/thanos.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "theia",
+      "displayName": "Theia",
+      "png": "png/theia.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "thelounge",
+      "displayName": "Thelounge",
+      "png": "png/thelounge.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "theme-park",
+      "displayName": "Theme Park",
+      "png": "png/theme-park.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "threads",
+      "displayName": "Threads",
+      "png": "png/threads.png",
+      "svg": "svg/threads.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "thunderbird",
+      "displayName": "Thunderbird",
+      "png": "png/thunderbird.png",
+      "svg": "svg/thunderbird.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "tiktok",
+      "displayName": "Tiktok",
+      "png": "png/tiktok.png",
+      "svg": "svg/tiktok.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "tinytinyrss",
+      "displayName": "Tinytinyrss",
+      "png": "png/tinytinyrss.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "tp-link",
+      "displayName": "Tp Link",
+      "png": "png/tp-link.png",
+      "svg": "svg/tp-link.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "traccar",
+      "displayName": "Traccar",
+      "png": "png/traccar.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "traefik",
+      "displayName": "Traefik",
+      "png": "png/traefik.png",
+      "svg": "svg/traefik.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "transmission",
+      "displayName": "Transmission",
+      "png": "png/transmission.png",
+      "svg": "svg/transmission.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "trilium",
+      "displayName": "Trilium",
+      "png": "png/trilium.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "truenas-core",
+      "displayName": "Truenas Core",
+      "png": "png/truenas-core.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "truenas-scale",
+      "displayName": "Truenas Scale",
+      "png": "png/truenas-scale.png",
+      "svg": "svg/truenas-scale.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "truenas",
+      "displayName": "Truenas",
+      "png": "png/truenas.png",
+      "svg": "svg/truenas.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "tube-archivist",
+      "displayName": "Tube Archivist",
+      "png": "png/tube-archivist.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "tubearchivist",
+      "displayName": "Tubearchivist",
+      "png": "png/tubearchivist.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "tubesync",
+      "displayName": "Tubesync",
+      "png": "png/tubesync.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "tvdb",
+      "displayName": "Tvdb",
+      "png": "png/tvdb.png",
+      "svg": "svg/tvdb.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "tvheadend",
+      "displayName": "Tvheadend",
+      "png": "png/tvheadend.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "twitch",
+      "displayName": "Twitch",
+      "png": "png/twitch.png",
+      "svg": "svg/twitch.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "ubiquiti-unifi",
+      "displayName": "Ubiquiti Unifi",
+      "png": "png/ubiquiti-unifi.png",
+      "svg": "svg/ubiquiti-unifi.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "ubooquity",
+      "displayName": "Ubooquity",
+      "png": "png/ubooquity.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ubuntu",
+      "displayName": "Ubuntu",
+      "png": "png/ubuntu.png",
+      "svg": "svg/ubuntu.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "ultimateguitar",
+      "displayName": "Ultimateguitar",
+      "png": "png/ultimateguitar.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "unifi",
+      "displayName": "Unifi",
+      "png": "png/unifi.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "unpackerr",
+      "displayName": "Unpackerr",
+      "png": "png/unpackerr.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "unraid",
+      "displayName": "Unraid",
+      "png": "png/unraid.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "updog",
+      "displayName": "Updog",
+      "png": "png/updog.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "uptime-kuma",
+      "displayName": "Uptime Kuma",
+      "png": "png/uptime-kuma.png",
+      "svg": "svg/uptime-kuma.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "urbackup",
+      "displayName": "Urbackup",
+      "png": "png/urbackup.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "usps",
+      "displayName": "Usps",
+      "png": "png/usps.png",
+      "svg": "svg/usps.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "valetudo",
+      "displayName": "Valetudo",
+      "png": "png/valetudo.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "vault",
+      "displayName": "Vault",
+      "png": "png/vault.png",
+      "svg": "svg/vault.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "vaultwarden",
+      "displayName": "Vaultwarden",
+      "png": "png/vaultwarden.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "vikunja",
+      "displayName": "Vikunja",
+      "png": "png/vikunja.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "virtualradarserver",
+      "displayName": "Virtualradarserver",
+      "png": "png/virtualradarserver.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "vmware",
+      "displayName": "Vmware",
+      "png": "png/vmware.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "vmwarehorizon",
+      "displayName": "Vmwarehorizon",
+      "png": "png/vmwarehorizon.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "volumio",
+      "displayName": "Volumio",
+      "png": "png/volumio.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "wallabag",
+      "displayName": "Wallabag",
+      "png": "png/wallabag.png",
+      "svg": "svg/wallabag.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "wanikani",
+      "displayName": "Wanikani",
+      "png": "png/wanikani.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "watcher",
+      "displayName": "Watcher",
+      "png": "png/watcher.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "watchtower",
+      "displayName": "Watchtower",
+      "png": "png/watchtower.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "webdav",
+      "displayName": "Webdav",
+      "png": "png/webdav.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "webmin",
+      "displayName": "Webmin",
+      "png": "png/webmin.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "webtools",
+      "displayName": "Webtools",
+      "png": "png/webtools.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "wekan",
+      "displayName": "Wekan",
+      "png": "png/wekan.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "wetty",
+      "displayName": "Wetty",
+      "png": "png/wetty.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "wggenweb",
+      "displayName": "Wggenweb",
+      "png": "png/wggenweb.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "displayName": "Whatsapp",
+      "png": "png/whatsapp.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "whoami",
+      "displayName": "Whoami",
+      "png": "png/whoami.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "wikijs",
+      "displayName": "Wikijs",
+      "png": "png/wikijs.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "windows-10",
+      "displayName": "Windows 10",
+      "png": "png/windows-10.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "windows-11",
+      "displayName": "Windows 11",
+      "png": "png/windows-11.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "windows-7",
+      "displayName": "Windows 7",
+      "png": "png/windows-7.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "windows-8",
+      "displayName": "Windows 8",
+      "png": "png/windows-8.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "windows-95",
+      "displayName": "Windows 95",
+      "png": "png/windows-95.png",
+      "svg": "svg/windows-95.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "windows-98",
+      "displayName": "Windows 98",
+      "png": "png/windows-98.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "windows-nt",
+      "displayName": "Windows Nt",
+      "png": "png/windows-nt.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "windows-vista",
+      "displayName": "Windows Vista",
+      "png": "png/windows-vista.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "windows-xp",
+      "displayName": "Windows Xp",
+      "png": "png/windows-xp.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "wireguard",
+      "displayName": "Wireguard",
+      "png": "png/wireguard.png",
+      "svg": "svg/wireguard.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "wizarr",
+      "displayName": "Wizarr",
+      "png": "png/wizarr.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "woocommerce",
+      "displayName": "Woocommerce",
+      "png": "png/woocommerce.png",
+      "svg": "svg/woocommerce.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "wordpress",
+      "displayName": "Wordpress",
+      "png": "png/wordpress.png",
+      "svg": "svg/wordpress.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "x",
+      "displayName": "X",
+      "png": "png/x.png",
+      "svg": "svg/x.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "xbrowsersync",
+      "displayName": "Xbrowsersync",
+      "png": "png/xbrowsersync.png",
+      "svg": "svg/xbrowsersync.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "xigmanas",
+      "displayName": "Xigmanas",
+      "png": "png/xigmanas.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "xteve",
+      "displayName": "Xteve",
+      "png": "png/xteve.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "xwiki",
+      "displayName": "Xwiki",
+      "png": "png/xwiki.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "yacht",
+      "displayName": "Yacht",
+      "png": "png/yacht.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "ynab",
+      "displayName": "Ynab",
+      "png": "png/ynab.png",
+      "svg": "svg/ynab.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "youtube",
+      "displayName": "Youtube",
+      "png": "png/youtube.png",
+      "svg": "svg/youtube.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "youtubedl",
+      "displayName": "Youtubedl",
+      "png": "png/youtubedl.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "z-wave-js-ui",
+      "displayName": "Z Wave Js Ui",
+      "png": "png/z-wave-js-ui.png",
+      "svg": "svg/z-wave-js-ui.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "zabbix",
+      "displayName": "Zabbix",
+      "png": "png/zabbix.png",
+      "svg": "svg/zabbix.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "zigbee2mqtt",
+      "displayName": "Zigbee2Mqtt",
+      "png": "png/zigbee2mqtt.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "znc",
+      "displayName": "Znc",
+      "png": "png/znc.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "zoneminder",
+      "displayName": "Zoneminder",
+      "png": "png/zoneminder.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "zoom",
+      "displayName": "Zoom",
+      "png": "png/zoom.png",
+      "svg": "svg/zoom.svg",
+      "formats": [
+        "png",
+        "svg"
+      ]
+    },
+    {
+      "name": "zulip",
+      "displayName": "Zulip",
+      "png": "png/zulip.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    },
+    {
+      "name": "zwavejs",
+      "displayName": "Zwavejs",
+      "png": "png/zwavejs.png",
+      "svg": null,
+      "formats": [
+        "png"
+      ]
+    }
+  ]
+}
