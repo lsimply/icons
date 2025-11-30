@@ -1,9 +1,9 @@
 {
   "name": "Lsimply Icons",
   "version": "1.0.0",
-  "description": "A collection of icons for Lsimply dashboard",
+  "description": "一个500+图标库",
   "source": "https://github.com/Lsimply/icons",
-  "generatedAt": "2025-11-30T22:55:32.197119",
+  "generatedAt": "2025-11-30T23:40:49.849275",
   "totalIcons": 572,
   "statistics": {
     "png": 572,
@@ -15,7 +15,7 @@
     {
       "name": "12ft",
       "displayName": "12Ft",
-      "png": "png/12ft.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/12ft.png",
       "svg": null,
       "formats": [
         "png"
@@ -24,7 +24,7 @@
     {
       "name": "3cx",
       "displayName": "3Cx",
-      "png": "png/3cx.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/3cx.png",
       "svg": null,
       "formats": [
         "png"
@@ -33,8 +33,8 @@
     {
       "name": "activitypub",
       "displayName": "Activitypub",
-      "png": "png/activitypub.png",
-      "svg": "svg/activitypub.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/activitypub.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/activitypub.svg",
       "formats": [
         "png",
         "svg"
@@ -43,7 +43,7 @@
     {
       "name": "actual",
       "displayName": "Actual",
-      "png": "png/actual.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/actual.png",
       "svg": null,
       "formats": [
         "png"
@@ -52,8 +52,8 @@
     {
       "name": "adguardhome",
       "displayName": "Adguardhome",
-      "png": "png/adguardhome.png",
-      "svg": "svg/adguardhome.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/adguardhome.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/adguardhome.svg",
       "formats": [
         "png",
         "svg"
@@ -62,8 +62,8 @@
     {
       "name": "adminer",
       "displayName": "Adminer",
-      "png": "png/adminer.png",
-      "svg": "svg/adminer.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/adminer.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/adminer.svg",
       "formats": [
         "png",
         "svg"
@@ -72,8 +72,8 @@
     {
       "name": "adobe-lightroom",
       "displayName": "Adobe Lightroom",
-      "png": "png/adobe-lightroom.png",
-      "svg": "svg/adobe-lightroom.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/adobe-lightroom.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/adobe-lightroom.svg",
       "formats": [
         "png",
         "svg"
@@ -82,8 +82,8 @@
     {
       "name": "airsonic",
       "displayName": "Airsonic",
-      "png": "png/airsonic.png",
-      "svg": "svg/airsonic.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/airsonic.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/airsonic.svg",
       "formats": [
         "png",
         "svg"
@@ -92,7 +92,7 @@
     {
       "name": "alarmpi",
       "displayName": "Alarmpi",
-      "png": "png/alarmpi.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/alarmpi.png",
       "svg": null,
       "formats": [
         "png"
@@ -101,8 +101,8 @@
     {
       "name": "alertmanager",
       "displayName": "Alertmanager",
-      "png": "png/alertmanager.png",
-      "svg": "svg/alertmanager.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/alertmanager.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/alertmanager.svg",
       "formats": [
         "png",
         "svg"
@@ -111,7 +111,7 @@
     {
       "name": "aliexpress",
       "displayName": "Aliexpress",
-      "png": "png/aliexpress.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/aliexpress.png",
       "svg": null,
       "formats": [
         "png"
@@ -120,7 +120,7 @@
     {
       "name": "alltube",
       "displayName": "Alltube",
-      "png": "png/alltube.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/alltube.png",
       "svg": null,
       "formats": [
         "png"
@@ -129,7 +129,7 @@
     {
       "name": "alma",
       "displayName": "Alma",
-      "png": "png/alma.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/alma.png",
       "svg": null,
       "formats": [
         "png"
@@ -138,7 +138,7 @@
     {
       "name": "alpine",
       "displayName": "Alpine",
-      "png": "png/alpine.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/alpine.png",
       "svg": null,
       "formats": [
         "png"
@@ -147,8 +147,8 @@
     {
       "name": "amazon-prime",
       "displayName": "Amazon Prime",
-      "png": "png/amazon-prime.png",
-      "svg": "svg/amazon-prime.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/amazon-prime.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/amazon-prime.svg",
       "formats": [
         "png",
         "svg"
@@ -157,8 +157,8 @@
     {
       "name": "amazon-web-services",
       "displayName": "Amazon Web Services",
-      "png": "png/amazon-web-services.png",
-      "svg": "svg/amazon-web-services.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/amazon-web-services.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/amazon-web-services.svg",
       "formats": [
         "png",
         "svg"
@@ -167,8 +167,8 @@
     {
       "name": "amazon",
       "displayName": "Amazon",
-      "png": "png/amazon.png",
-      "svg": "svg/amazon.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/amazon.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/amazon.svg",
       "formats": [
         "png",
         "svg"
@@ -177,8 +177,8 @@
     {
       "name": "amd",
       "displayName": "Amd",
-      "png": "png/amd.png",
-      "svg": "svg/amd.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/amd.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/amd.svg",
       "formats": [
         "png",
         "svg"
@@ -187,7 +187,7 @@
     {
       "name": "ampache",
       "displayName": "Ampache",
-      "png": "png/ampache.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ampache.png",
       "svg": null,
       "formats": [
         "png"
@@ -196,7 +196,7 @@
     {
       "name": "amvd",
       "displayName": "Amvd",
-      "png": "png/amvd.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/amvd.png",
       "svg": null,
       "formats": [
         "png"
@@ -205,8 +205,8 @@
     {
       "name": "android",
       "displayName": "Android",
-      "png": "png/android.png",
-      "svg": "svg/android.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/android.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/android.svg",
       "formats": [
         "png",
         "svg"
@@ -215,8 +215,8 @@
     {
       "name": "ansible",
       "displayName": "Ansible",
-      "png": "png/ansible.png",
-      "svg": "svg/ansible.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ansible.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/ansible.svg",
       "formats": [
         "png",
         "svg"
@@ -225,7 +225,7 @@
     {
       "name": "apache-solr",
       "displayName": "Apache Solr",
-      "png": "png/apache-solr.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/apache-solr.png",
       "svg": null,
       "formats": [
         "png"
@@ -234,7 +234,7 @@
     {
       "name": "apc",
       "displayName": "Apc",
-      "png": "png/apc.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/apc.png",
       "svg": null,
       "formats": [
         "png"
@@ -243,8 +243,8 @@
     {
       "name": "apple-music",
       "displayName": "Apple Music",
-      "png": "png/apple-music.png",
-      "svg": "svg/apple-music.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/apple-music.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/apple-music.svg",
       "formats": [
         "png",
         "svg"
@@ -253,8 +253,8 @@
     {
       "name": "apple-retro",
       "displayName": "Apple Retro",
-      "png": "png/apple-retro.png",
-      "svg": "svg/apple-retro.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/apple-retro.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/apple-retro.svg",
       "formats": [
         "png",
         "svg"
@@ -263,8 +263,8 @@
     {
       "name": "apple",
       "displayName": "Apple",
-      "png": "png/apple.png",
-      "svg": "svg/apple.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/apple.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/apple.svg",
       "formats": [
         "png",
         "svg"
@@ -273,8 +273,8 @@
     {
       "name": "arch-linux",
       "displayName": "Arch Linux",
-      "png": "png/arch-linux.png",
-      "svg": "svg/arch-linux.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/arch-linux.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/arch-linux.svg",
       "formats": [
         "png",
         "svg"
@@ -283,7 +283,7 @@
     {
       "name": "archivebox",
       "displayName": "Archivebox",
-      "png": "png/archivebox.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/archivebox.png",
       "svg": null,
       "formats": [
         "png"
@@ -292,7 +292,7 @@
     {
       "name": "archiveteamwarrior",
       "displayName": "Archiveteamwarrior",
-      "png": "png/archiveteamwarrior.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/archiveteamwarrior.png",
       "svg": null,
       "formats": [
         "png"
@@ -301,7 +301,7 @@
     {
       "name": "argocd",
       "displayName": "Argocd",
-      "png": "png/argocd.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/argocd.png",
       "svg": null,
       "formats": [
         "png"
@@ -310,7 +310,7 @@
     {
       "name": "ariang",
       "displayName": "Ariang",
-      "png": "png/ariang.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ariang.png",
       "svg": null,
       "formats": [
         "png"
@@ -319,7 +319,7 @@
     {
       "name": "artifactory",
       "displayName": "Artifactory",
-      "png": "png/artifactory.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/artifactory.png",
       "svg": null,
       "formats": [
         "png"
@@ -328,7 +328,7 @@
     {
       "name": "asterisk",
       "displayName": "Asterisk",
-      "png": "png/asterisk.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/asterisk.png",
       "svg": null,
       "formats": [
         "png"
@@ -337,7 +337,7 @@
     {
       "name": "asus-rog",
       "displayName": "Asus Rog",
-      "png": "png/asus-rog.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/asus-rog.png",
       "svg": null,
       "formats": [
         "png"
@@ -346,7 +346,7 @@
     {
       "name": "asus",
       "displayName": "Asus",
-      "png": "png/asus.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/asus.png",
       "svg": null,
       "formats": [
         "png"
@@ -355,7 +355,7 @@
     {
       "name": "audacity",
       "displayName": "Audacity",
-      "png": "png/audacity.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/audacity.png",
       "svg": null,
       "formats": [
         "png"
@@ -364,8 +364,8 @@
     {
       "name": "authelia",
       "displayName": "Authelia",
-      "png": "png/authelia.png",
-      "svg": "svg/authelia.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/authelia.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/authelia.svg",
       "formats": [
         "png",
         "svg"
@@ -374,8 +374,8 @@
     {
       "name": "authentik",
       "displayName": "Authentik",
-      "png": "png/authentik.png",
-      "svg": "svg/authentik.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/authentik.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/authentik.svg",
       "formats": [
         "png",
         "svg"
@@ -384,7 +384,7 @@
     {
       "name": "avmfritzbox",
       "displayName": "Avmfritzbox",
-      "png": "png/avmfritzbox.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/avmfritzbox.png",
       "svg": null,
       "formats": [
         "png"
@@ -393,7 +393,7 @@
     {
       "name": "aws",
       "displayName": "Aws",
-      "png": "png/aws.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/aws.png",
       "svg": null,
       "formats": [
         "png"
@@ -402,7 +402,7 @@
     {
       "name": "awx",
       "displayName": "Awx",
-      "png": "png/awx.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/awx.png",
       "svg": null,
       "formats": [
         "png"
@@ -411,7 +411,7 @@
     {
       "name": "azure",
       "displayName": "Azure",
-      "png": "png/azure.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/azure.png",
       "svg": null,
       "formats": [
         "png"
@@ -420,7 +420,7 @@
     {
       "name": "azuredns",
       "displayName": "Azuredns",
-      "png": "png/azuredns.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/azuredns.png",
       "svg": null,
       "formats": [
         "png"
@@ -429,8 +429,8 @@
     {
       "name": "backblaze",
       "displayName": "Backblaze",
-      "png": "png/backblaze.png",
-      "svg": "svg/backblaze.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/backblaze.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/backblaze.svg",
       "formats": [
         "png",
         "svg"
@@ -439,7 +439,7 @@
     {
       "name": "bacula",
       "displayName": "Bacula",
-      "png": "png/bacula.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bacula.png",
       "svg": null,
       "formats": [
         "png"
@@ -448,7 +448,7 @@
     {
       "name": "badge",
       "displayName": "Badge",
-      "png": "png/badge.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/badge.png",
       "svg": null,
       "formats": [
         "png"
@@ -457,7 +457,7 @@
     {
       "name": "baikal",
       "displayName": "Baikal",
-      "png": "png/baikal.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/baikal.png",
       "svg": null,
       "formats": [
         "png"
@@ -466,7 +466,7 @@
     {
       "name": "bastillion",
       "displayName": "Bastillion",
-      "png": "png/bastillion.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bastillion.png",
       "svg": null,
       "formats": [
         "png"
@@ -475,8 +475,8 @@
     {
       "name": "bazarr",
       "displayName": "Bazarr",
-      "png": "png/bazarr.png",
-      "svg": "svg/bazarr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bazarr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/bazarr.svg",
       "formats": [
         "png",
         "svg"
@@ -485,7 +485,7 @@
     {
       "name": "beats",
       "displayName": "Beats",
-      "png": "png/beats.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/beats.png",
       "svg": null,
       "formats": [
         "png"
@@ -494,8 +494,8 @@
     {
       "name": "beets",
       "displayName": "Beets",
-      "png": "png/beets.png",
-      "svg": "svg/beets.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/beets.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/beets.svg",
       "formats": [
         "png",
         "svg"
@@ -504,7 +504,7 @@
     {
       "name": "bing",
       "displayName": "Bing",
-      "png": "png/bing.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bing.png",
       "svg": null,
       "formats": [
         "png"
@@ -513,7 +513,7 @@
     {
       "name": "bithumen",
       "displayName": "Bithumen",
-      "png": "png/bithumen.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bithumen.png",
       "svg": null,
       "formats": [
         "png"
@@ -522,8 +522,8 @@
     {
       "name": "bitwarden",
       "displayName": "Bitwarden",
-      "png": "png/bitwarden.png",
-      "svg": "svg/bitwarden.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bitwarden.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/bitwarden.svg",
       "formats": [
         "png",
         "svg"
@@ -532,7 +532,7 @@
     {
       "name": "blueiris",
       "displayName": "Blueiris",
-      "png": "png/blueiris.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/blueiris.png",
       "svg": null,
       "formats": [
         "png"
@@ -541,8 +541,8 @@
     {
       "name": "bluesky",
       "displayName": "Bluesky",
-      "png": "png/bluesky.png",
-      "svg": "svg/bluesky.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bluesky.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/bluesky.svg",
       "formats": [
         "png",
         "svg"
@@ -551,7 +551,7 @@
     {
       "name": "bluetooth",
       "displayName": "Bluetooth",
-      "png": "png/bluetooth.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bluetooth.png",
       "svg": null,
       "formats": [
         "png"
@@ -560,7 +560,7 @@
     {
       "name": "booksonic",
       "displayName": "Booksonic",
-      "png": "png/booksonic.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/booksonic.png",
       "svg": null,
       "formats": [
         "png"
@@ -569,7 +569,7 @@
     {
       "name": "bookstack",
       "displayName": "Bookstack",
-      "png": "png/bookstack.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/bookstack.png",
       "svg": null,
       "formats": [
         "png"
@@ -578,7 +578,7 @@
     {
       "name": "box",
       "displayName": "Box",
-      "png": "png/box.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/box.png",
       "svg": null,
       "formats": [
         "png"
@@ -587,7 +587,7 @@
     {
       "name": "brewpi",
       "displayName": "Brewpi",
-      "png": "png/brewpi.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/brewpi.png",
       "svg": null,
       "formats": [
         "png"
@@ -596,8 +596,8 @@
     {
       "name": "brother",
       "displayName": "Brother",
-      "png": "png/brother.png",
-      "svg": "svg/brother.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/brother.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/brother.svg",
       "formats": [
         "png",
         "svg"
@@ -606,7 +606,7 @@
     {
       "name": "buxfer",
       "displayName": "Buxfer",
-      "png": "png/buxfer.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/buxfer.png",
       "svg": null,
       "formats": [
         "png"
@@ -615,7 +615,7 @@
     {
       "name": "cabot",
       "displayName": "Cabot",
-      "png": "png/cabot.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cabot.png",
       "svg": null,
       "formats": [
         "png"
@@ -624,8 +624,8 @@
     {
       "name": "caddy",
       "displayName": "Caddy",
-      "png": "png/caddy.png",
-      "svg": "svg/caddy.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/caddy.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/caddy.svg",
       "formats": [
         "png",
         "svg"
@@ -634,8 +634,8 @@
     {
       "name": "cadvisor",
       "displayName": "Cadvisor",
-      "png": "png/cadvisor.png",
-      "svg": "svg/cadvisor.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cadvisor.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/cadvisor.svg",
       "formats": [
         "png",
         "svg"
@@ -644,8 +644,8 @@
     {
       "name": "calibreweb",
       "displayName": "Calibreweb",
-      "png": "png/calibreweb.png",
-      "svg": "svg/calibreweb.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/calibreweb.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/calibreweb.svg",
       "formats": [
         "png",
         "svg"
@@ -654,7 +654,7 @@
     {
       "name": "cardigann",
       "displayName": "Cardigann",
-      "png": "png/cardigann.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cardigann.png",
       "svg": null,
       "formats": [
         "png"
@@ -663,7 +663,7 @@
     {
       "name": "centos",
       "displayName": "Centos",
-      "png": "png/centos.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/centos.png",
       "svg": null,
       "formats": [
         "png"
@@ -672,8 +672,8 @@
     {
       "name": "changedetection",
       "displayName": "Changedetection",
-      "png": "png/changedetection.png",
-      "svg": "svg/changedetection.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/changedetection.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/changedetection.svg",
       "formats": [
         "png",
         "svg"
@@ -682,7 +682,7 @@
     {
       "name": "checkmk",
       "displayName": "Checkmk",
-      "png": "png/checkmk.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/checkmk.png",
       "svg": null,
       "formats": [
         "png"
@@ -691,7 +691,7 @@
     {
       "name": "cherry",
       "displayName": "Cherry",
-      "png": "png/cherry.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cherry.png",
       "svg": null,
       "formats": [
         "png"
@@ -700,7 +700,7 @@
     {
       "name": "chevereto",
       "displayName": "Chevereto",
-      "png": "png/chevereto.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/chevereto.png",
       "svg": null,
       "formats": [
         "png"
@@ -709,7 +709,7 @@
     {
       "name": "chowdown",
       "displayName": "Chowdown",
-      "png": "png/chowdown.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/chowdown.png",
       "svg": null,
       "formats": [
         "png"
@@ -718,7 +718,7 @@
     {
       "name": "chrome-canary",
       "displayName": "Chrome Canary",
-      "png": "png/chrome-canary.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/chrome-canary.png",
       "svg": null,
       "formats": [
         "png"
@@ -727,8 +727,8 @@
     {
       "name": "chrome",
       "displayName": "Chrome",
-      "png": "png/chrome.png",
-      "svg": "svg/chrome.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/chrome.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/chrome.svg",
       "formats": [
         "png",
         "svg"
@@ -737,8 +737,8 @@
     {
       "name": "chromium",
       "displayName": "Chromium",
-      "png": "png/chromium.png",
-      "svg": "svg/chromium.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/chromium.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/chromium.svg",
       "formats": [
         "png",
         "svg"
@@ -747,7 +747,7 @@
     {
       "name": "chronograf",
       "displayName": "Chronograf",
-      "png": "png/chronograf.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/chronograf.png",
       "svg": null,
       "formats": [
         "png"
@@ -756,7 +756,7 @@
     {
       "name": "cisco",
       "displayName": "Cisco",
-      "png": "png/cisco.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cisco.png",
       "svg": null,
       "formats": [
         "png"
@@ -765,7 +765,7 @@
     {
       "name": "clarkson",
       "displayName": "Clarkson",
-      "png": "png/clarkson.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/clarkson.png",
       "svg": null,
       "formats": [
         "png"
@@ -774,7 +774,7 @@
     {
       "name": "cloudcmd",
       "displayName": "Cloudcmd",
-      "png": "png/cloudcmd.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cloudcmd.png",
       "svg": null,
       "formats": [
         "png"
@@ -783,8 +783,8 @@
     {
       "name": "cloudflare",
       "displayName": "Cloudflare",
-      "png": "png/cloudflare.png",
-      "svg": "svg/cloudflare.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cloudflare.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/cloudflare.svg",
       "formats": [
         "png",
         "svg"
@@ -793,7 +793,7 @@
     {
       "name": "cockpit",
       "displayName": "Cockpit",
-      "png": "png/cockpit.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cockpit.png",
       "svg": null,
       "formats": [
         "png"
@@ -802,7 +802,7 @@
     {
       "name": "cockpitcms",
       "displayName": "Cockpitcms",
-      "png": "png/cockpitcms.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cockpitcms.png",
       "svg": null,
       "formats": [
         "png"
@@ -811,8 +811,8 @@
     {
       "name": "code",
       "displayName": "Code",
-      "png": "png/code.png",
-      "svg": "svg/code.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/code.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/code.svg",
       "formats": [
         "png",
         "svg"
@@ -821,7 +821,7 @@
     {
       "name": "codeserver",
       "displayName": "Codeserver",
-      "png": "png/codeserver.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/codeserver.png",
       "svg": null,
       "formats": [
         "png"
@@ -830,7 +830,7 @@
     {
       "name": "codimd",
       "displayName": "Codimd",
-      "png": "png/codimd.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/codimd.png",
       "svg": null,
       "formats": [
         "png"
@@ -839,7 +839,7 @@
     {
       "name": "commafeed",
       "displayName": "Commafeed",
-      "png": "png/commafeed.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/commafeed.png",
       "svg": null,
       "formats": [
         "png"
@@ -848,7 +848,7 @@
     {
       "name": "concourse",
       "displayName": "Concourse",
-      "png": "png/concourse.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/concourse.png",
       "svg": null,
       "formats": [
         "png"
@@ -857,7 +857,7 @@
     {
       "name": "coreos",
       "displayName": "Coreos",
-      "png": "png/coreos.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/coreos.png",
       "svg": null,
       "formats": [
         "png"
@@ -866,7 +866,7 @@
     {
       "name": "couchpotato",
       "displayName": "Couchpotato",
-      "png": "png/couchpotato.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/couchpotato.png",
       "svg": null,
       "formats": [
         "png"
@@ -875,7 +875,7 @@
     {
       "name": "cpanel",
       "displayName": "Cpanel",
-      "png": "png/cpanel.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cpanel.png",
       "svg": null,
       "formats": [
         "png"
@@ -884,8 +884,8 @@
     {
       "name": "crowdsec",
       "displayName": "Crowdsec",
-      "png": "png/crowdsec.png",
-      "svg": "svg/crowdsec.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/crowdsec.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/crowdsec.svg",
       "formats": [
         "png",
         "svg"
@@ -894,7 +894,7 @@
     {
       "name": "cryptpad",
       "displayName": "Cryptpad",
-      "png": "png/cryptpad.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cryptpad.png",
       "svg": null,
       "formats": [
         "png"
@@ -903,7 +903,7 @@
     {
       "name": "css",
       "displayName": "Css",
-      "png": "png/css.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/css.png",
       "svg": null,
       "formats": [
         "png"
@@ -912,8 +912,8 @@
     {
       "name": "cyberchef",
       "displayName": "Cyberchef",
-      "png": "png/cyberchef.png",
-      "svg": "svg/cyberchef.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/cyberchef.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/cyberchef.svg",
       "formats": [
         "png",
         "svg"
@@ -922,7 +922,7 @@
     {
       "name": "debian",
       "displayName": "Debian",
-      "png": "png/debian.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/debian.png",
       "svg": null,
       "formats": [
         "png"
@@ -931,7 +931,7 @@
     {
       "name": "deemix",
       "displayName": "Deemix",
-      "png": "png/deemix.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/deemix.png",
       "svg": null,
       "formats": [
         "png"
@@ -940,8 +940,8 @@
     {
       "name": "deezer",
       "displayName": "Deezer",
-      "png": "png/deezer.png",
-      "svg": "svg/deezer.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/deezer.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/deezer.svg",
       "formats": [
         "png",
         "svg"
@@ -950,7 +950,7 @@
     {
       "name": "dell",
       "displayName": "Dell",
-      "png": "png/dell.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/dell.png",
       "svg": null,
       "formats": [
         "png"
@@ -959,7 +959,7 @@
     {
       "name": "deluge",
       "displayName": "Deluge",
-      "png": "png/deluge.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/deluge.png",
       "svg": null,
       "formats": [
         "png"
@@ -968,8 +968,8 @@
     {
       "name": "digitalocean",
       "displayName": "Digitalocean",
-      "png": "png/digitalocean.png",
-      "svg": "svg/digitalocean.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/digitalocean.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/digitalocean.svg",
       "formats": [
         "png",
         "svg"
@@ -978,7 +978,7 @@
     {
       "name": "directus",
       "displayName": "Directus",
-      "png": "png/directus.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/directus.png",
       "svg": null,
       "formats": [
         "png"
@@ -987,8 +987,8 @@
     {
       "name": "discord",
       "displayName": "Discord",
-      "png": "png/discord.png",
-      "svg": "svg/discord.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/discord.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/discord.svg",
       "formats": [
         "png",
         "svg"
@@ -997,7 +997,7 @@
     {
       "name": "discourse",
       "displayName": "Discourse",
-      "png": "png/discourse.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/discourse.png",
       "svg": null,
       "formats": [
         "png"
@@ -1006,7 +1006,7 @@
     {
       "name": "docker-moby",
       "displayName": "Docker Moby",
-      "png": "png/docker-moby.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/docker-moby.png",
       "svg": null,
       "formats": [
         "png"
@@ -1015,8 +1015,8 @@
     {
       "name": "docker",
       "displayName": "Docker",
-      "png": "png/docker.png",
-      "svg": "svg/docker.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/docker.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/docker.svg",
       "formats": [
         "png",
         "svg"
@@ -1025,7 +1025,7 @@
     {
       "name": "docspell",
       "displayName": "Docspell",
-      "png": "png/docspell.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/docspell.png",
       "svg": null,
       "formats": [
         "png"
@@ -1034,7 +1034,7 @@
     {
       "name": "dokuwiki",
       "displayName": "Dokuwiki",
-      "png": "png/dokuwiki.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/dokuwiki.png",
       "svg": null,
       "formats": [
         "png"
@@ -1043,7 +1043,7 @@
     {
       "name": "domoticz",
       "displayName": "Domoticz",
-      "png": "png/domoticz.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/domoticz.png",
       "svg": null,
       "formats": [
         "png"
@@ -1052,8 +1052,8 @@
     {
       "name": "dovecot",
       "displayName": "Dovecot",
-      "png": "png/dovecot.png",
-      "svg": "svg/dovecot.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/dovecot.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/dovecot.svg",
       "formats": [
         "png",
         "svg"
@@ -1062,7 +1062,7 @@
     {
       "name": "dozzle",
       "displayName": "Dozzle",
-      "png": "png/dozzle.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/dozzle.png",
       "svg": null,
       "formats": [
         "png"
@@ -1071,7 +1071,7 @@
     {
       "name": "drone",
       "displayName": "Drone",
-      "png": "png/drone.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/drone.png",
       "svg": null,
       "formats": [
         "png"
@@ -1080,8 +1080,8 @@
     {
       "name": "dropbox",
       "displayName": "Dropbox",
-      "png": "png/dropbox.png",
-      "svg": "svg/dropbox.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/dropbox.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/dropbox.svg",
       "formats": [
         "png",
         "svg"
@@ -1090,7 +1090,7 @@
     {
       "name": "droppy",
       "displayName": "Droppy",
-      "png": "png/droppy.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/droppy.png",
       "svg": null,
       "formats": [
         "png"
@@ -1099,8 +1099,8 @@
     {
       "name": "duckduckgo",
       "displayName": "Duckduckgo",
-      "png": "png/duckduckgo.png",
-      "svg": "svg/duckduckgo.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/duckduckgo.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/duckduckgo.svg",
       "formats": [
         "png",
         "svg"
@@ -1109,7 +1109,7 @@
     {
       "name": "duplicacy",
       "displayName": "Duplicacy",
-      "png": "png/duplicacy.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/duplicacy.png",
       "svg": null,
       "formats": [
         "png"
@@ -1118,7 +1118,7 @@
     {
       "name": "duplicati",
       "displayName": "Duplicati",
-      "png": "png/duplicati.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/duplicati.png",
       "svg": null,
       "formats": [
         "png"
@@ -1127,7 +1127,7 @@
     {
       "name": "ebay",
       "displayName": "Ebay",
-      "png": "png/ebay.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ebay.png",
       "svg": null,
       "formats": [
         "png"
@@ -1136,7 +1136,7 @@
     {
       "name": "edge",
       "displayName": "Edge",
-      "png": "png/edge.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/edge.png",
       "svg": null,
       "formats": [
         "png"
@@ -1145,7 +1145,7 @@
     {
       "name": "elastic",
       "displayName": "Elastic",
-      "png": "png/elastic.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/elastic.png",
       "svg": null,
       "formats": [
         "png"
@@ -1154,7 +1154,7 @@
     {
       "name": "elasticsearch",
       "displayName": "Elasticsearch",
-      "png": "png/elasticsearch.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/elasticsearch.png",
       "svg": null,
       "formats": [
         "png"
@@ -1163,7 +1163,7 @@
     {
       "name": "electron",
       "displayName": "Electron",
-      "png": "png/electron.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/electron.png",
       "svg": null,
       "formats": [
         "png"
@@ -1172,8 +1172,8 @@
     {
       "name": "element",
       "displayName": "Element",
-      "png": "png/element.png",
-      "svg": "svg/element.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/element.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/element.svg",
       "formats": [
         "png",
         "svg"
@@ -1182,8 +1182,8 @@
     {
       "name": "emby",
       "displayName": "Emby",
-      "png": "png/emby.png",
-      "svg": "svg/emby.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/emby.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/emby.svg",
       "formats": [
         "png",
         "svg"
@@ -1192,7 +1192,7 @@
     {
       "name": "embystat",
       "displayName": "Embystat",
-      "png": "png/embystat.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/embystat.png",
       "svg": null,
       "formats": [
         "png"
@@ -1201,7 +1201,7 @@
     {
       "name": "emq",
       "displayName": "Emq",
-      "png": "png/emq.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/emq.png",
       "svg": null,
       "formats": [
         "png"
@@ -1210,8 +1210,8 @@
     {
       "name": "ersatztv",
       "displayName": "Ersatztv",
-      "png": "png/ersatztv.png",
-      "svg": "svg/ersatztv.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ersatztv.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/ersatztv.svg",
       "formats": [
         "png",
         "svg"
@@ -1220,7 +1220,7 @@
     {
       "name": "erste-george",
       "displayName": "Erste George",
-      "png": "png/erste-george.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/erste-george.png",
       "svg": null,
       "formats": [
         "png"
@@ -1229,7 +1229,7 @@
     {
       "name": "erste",
       "displayName": "Erste",
-      "png": "png/erste.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/erste.png",
       "svg": null,
       "formats": [
         "png"
@@ -1238,8 +1238,8 @@
     {
       "name": "esphome",
       "displayName": "Esphome",
-      "png": "png/esphome.png",
-      "svg": "svg/esphome.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/esphome.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/esphome.svg",
       "formats": [
         "png",
         "svg"
@@ -1248,7 +1248,7 @@
     {
       "name": "evebox",
       "displayName": "Evebox",
-      "png": "png/evebox.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/evebox.png",
       "svg": null,
       "formats": [
         "png"
@@ -1257,8 +1257,8 @@
     {
       "name": "facebook-messenger",
       "displayName": "Facebook Messenger",
-      "png": "png/facebook-messenger.png",
-      "svg": "svg/facebook-messenger.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/facebook-messenger.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/facebook-messenger.svg",
       "formats": [
         "png",
         "svg"
@@ -1267,8 +1267,8 @@
     {
       "name": "facebook",
       "displayName": "Facebook",
-      "png": "png/facebook.png",
-      "svg": "svg/facebook.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/facebook.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/facebook.svg",
       "formats": [
         "png",
         "svg"
@@ -1277,7 +1277,7 @@
     {
       "name": "fasten",
       "displayName": "Fasten",
-      "png": "png/fasten.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/fasten.png",
       "svg": null,
       "formats": [
         "png"
@@ -1286,8 +1286,8 @@
     {
       "name": "fedex",
       "displayName": "Fedex",
-      "png": "png/fedex.png",
-      "svg": "svg/fedex.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/fedex.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/fedex.svg",
       "formats": [
         "png",
         "svg"
@@ -1296,8 +1296,8 @@
     {
       "name": "fediverse",
       "displayName": "Fediverse",
-      "png": "png/fediverse.png",
-      "svg": "svg/fediverse.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/fediverse.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/fediverse.svg",
       "formats": [
         "png",
         "svg"
@@ -1306,8 +1306,8 @@
     {
       "name": "fedora",
       "displayName": "Fedora",
-      "png": "png/fedora.png",
-      "svg": "svg/fedora.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/fedora.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/fedora.svg",
       "formats": [
         "png",
         "svg"
@@ -1316,8 +1316,8 @@
     {
       "name": "filebrowser",
       "displayName": "Filebrowser",
-      "png": "png/filebrowser.png",
-      "svg": "svg/filebrowser.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/filebrowser.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/filebrowser.svg",
       "formats": [
         "png",
         "svg"
@@ -1326,8 +1326,8 @@
     {
       "name": "fileflows",
       "displayName": "Fileflows",
-      "png": "png/fileflows.png",
-      "svg": "svg/fileflows.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/fileflows.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/fileflows.svg",
       "formats": [
         "png",
         "svg"
@@ -1336,8 +1336,8 @@
     {
       "name": "filerun",
       "displayName": "Filerun",
-      "png": "png/filerun.png",
-      "svg": "svg/filerun.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/filerun.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/filerun.svg",
       "formats": [
         "png",
         "svg"
@@ -1346,8 +1346,8 @@
     {
       "name": "firefly-iii",
       "displayName": "Firefly Iii",
-      "png": "png/firefly-iii.png",
-      "svg": "svg/firefly-iii.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/firefly-iii.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/firefly-iii.svg",
       "formats": [
         "png",
         "svg"
@@ -1356,7 +1356,7 @@
     {
       "name": "firefox-nightly",
       "displayName": "Firefox Nightly",
-      "png": "png/firefox-nightly.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/firefox-nightly.png",
       "svg": null,
       "formats": [
         "png"
@@ -1365,8 +1365,8 @@
     {
       "name": "firefox",
       "displayName": "Firefox",
-      "png": "png/firefox.png",
-      "svg": "svg/firefox.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/firefox.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/firefox.svg",
       "formats": [
         "png",
         "svg"
@@ -1375,7 +1375,7 @@
     {
       "name": "firefoxsend",
       "displayName": "Firefoxsend",
-      "png": "png/firefoxsend.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/firefoxsend.png",
       "svg": null,
       "formats": [
         "png"
@@ -1384,8 +1384,8 @@
     {
       "name": "flaresolverr",
       "displayName": "Flaresolverr",
-      "png": "png/flaresolverr.png",
-      "svg": "svg/flaresolverr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/flaresolverr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/flaresolverr.svg",
       "formats": [
         "png",
         "svg"
@@ -1394,7 +1394,7 @@
     {
       "name": "flexget",
       "displayName": "Flexget",
-      "png": "png/flexget.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/flexget.png",
       "svg": null,
       "formats": [
         "png"
@@ -1403,7 +1403,7 @@
     {
       "name": "flood",
       "displayName": "Flood",
-      "png": "png/flood.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/flood.png",
       "svg": null,
       "formats": [
         "png"
@@ -1412,7 +1412,7 @@
     {
       "name": "foldingathome",
       "displayName": "Foldingathome",
-      "png": "png/foldingathome.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/foldingathome.png",
       "svg": null,
       "formats": [
         "png"
@@ -1421,8 +1421,8 @@
     {
       "name": "freeipa",
       "displayName": "Freeipa",
-      "png": "png/freeipa.png",
-      "svg": "svg/freeipa.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/freeipa.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/freeipa.svg",
       "formats": [
         "png",
         "svg"
@@ -1431,7 +1431,7 @@
     {
       "name": "freenas",
       "displayName": "Freenas",
-      "png": "png/freenas.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/freenas.png",
       "svg": null,
       "formats": [
         "png"
@@ -1440,8 +1440,8 @@
     {
       "name": "freepbx",
       "displayName": "Freepbx",
-      "png": "png/freepbx.png",
-      "svg": "svg/freepbx.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/freepbx.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/freepbx.svg",
       "formats": [
         "png",
         "svg"
@@ -1450,7 +1450,7 @@
     {
       "name": "freescout",
       "displayName": "Freescout",
-      "png": "png/freescout.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/freescout.png",
       "svg": null,
       "formats": [
         "png"
@@ -1459,8 +1459,8 @@
     {
       "name": "freshrss",
       "displayName": "Freshrss",
-      "png": "png/freshrss.png",
-      "svg": "svg/freshrss.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/freshrss.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/freshrss.svg",
       "formats": [
         "png",
         "svg"
@@ -1469,7 +1469,7 @@
     {
       "name": "ghost",
       "displayName": "Ghost",
-      "png": "png/ghost.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ghost.png",
       "svg": null,
       "formats": [
         "png"
@@ -1478,8 +1478,8 @@
     {
       "name": "gimp",
       "displayName": "Gimp",
-      "png": "png/gimp.png",
-      "svg": "svg/gimp.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/gimp.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/gimp.svg",
       "formats": [
         "png",
         "svg"
@@ -1488,8 +1488,8 @@
     {
       "name": "gitea",
       "displayName": "Gitea",
-      "png": "png/gitea.png",
-      "svg": "svg/gitea.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/gitea.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/gitea.svg",
       "formats": [
         "png",
         "svg"
@@ -1498,8 +1498,8 @@
     {
       "name": "github",
       "displayName": "Github",
-      "png": "png/github.png",
-      "svg": "svg/github.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/github.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/github.svg",
       "formats": [
         "png",
         "svg"
@@ -1508,8 +1508,8 @@
     {
       "name": "gitlab",
       "displayName": "Gitlab",
-      "png": "png/gitlab.png",
-      "svg": "svg/gitlab.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/gitlab.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/gitlab.svg",
       "formats": [
         "png",
         "svg"
@@ -1518,7 +1518,7 @@
     {
       "name": "glances",
       "displayName": "Glances",
-      "png": "png/glances.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/glances.png",
       "svg": null,
       "formats": [
         "png"
@@ -1527,8 +1527,8 @@
     {
       "name": "gmail",
       "displayName": "Gmail",
-      "png": "png/gmail.png",
-      "svg": "svg/gmail.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/gmail.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/gmail.svg",
       "formats": [
         "png",
         "svg"
@@ -1537,7 +1537,7 @@
     {
       "name": "gogs",
       "displayName": "Gogs",
-      "png": "png/gogs.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/gogs.png",
       "svg": null,
       "formats": [
         "png"
@@ -1546,8 +1546,8 @@
     {
       "name": "google-analytics",
       "displayName": "Google Analytics",
-      "png": "png/google-analytics.png",
-      "svg": "svg/google-analytics.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-analytics.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/google-analytics.svg",
       "formats": [
         "png",
         "svg"
@@ -1556,8 +1556,8 @@
     {
       "name": "google-calendar",
       "displayName": "Google Calendar",
-      "png": "png/google-calendar.png",
-      "svg": "svg/google-calendar.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-calendar.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/google-calendar.svg",
       "formats": [
         "png",
         "svg"
@@ -1566,8 +1566,8 @@
     {
       "name": "google-contacts",
       "displayName": "Google Contacts",
-      "png": "png/google-contacts.png",
-      "svg": "svg/google-contacts.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-contacts.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/google-contacts.svg",
       "formats": [
         "png",
         "svg"
@@ -1576,8 +1576,8 @@
     {
       "name": "google-drive",
       "displayName": "Google Drive",
-      "png": "png/google-drive.png",
-      "svg": "svg/google-drive.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-drive.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/google-drive.svg",
       "formats": [
         "png",
         "svg"
@@ -1586,8 +1586,8 @@
     {
       "name": "google-gemini",
       "displayName": "Google Gemini",
-      "png": "png/google-gemini.png",
-      "svg": "svg/google-gemini.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-gemini.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/google-gemini.svg",
       "formats": [
         "png",
         "svg"
@@ -1596,8 +1596,8 @@
     {
       "name": "google-home",
       "displayName": "Google Home",
-      "png": "png/google-home.png",
-      "svg": "svg/google-home.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-home.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/google-home.svg",
       "formats": [
         "png",
         "svg"
@@ -1606,7 +1606,7 @@
     {
       "name": "google-keep",
       "displayName": "Google Keep",
-      "png": "png/google-keep.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-keep.png",
       "svg": null,
       "formats": [
         "png"
@@ -1615,8 +1615,8 @@
     {
       "name": "google-maps",
       "displayName": "Google Maps",
-      "png": "png/google-maps.png",
-      "svg": "svg/google-maps.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-maps.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/google-maps.svg",
       "formats": [
         "png",
         "svg"
@@ -1625,8 +1625,8 @@
     {
       "name": "google-photos",
       "displayName": "Google Photos",
-      "png": "png/google-photos.png",
-      "svg": "svg/google-photos.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-photos.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/google-photos.svg",
       "formats": [
         "png",
         "svg"
@@ -1635,7 +1635,7 @@
     {
       "name": "google-play",
       "displayName": "Google Play",
-      "png": "png/google-play.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google-play.png",
       "svg": null,
       "formats": [
         "png"
@@ -1644,7 +1644,7 @@
     {
       "name": "google",
       "displayName": "Google",
-      "png": "png/google.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/google.png",
       "svg": null,
       "formats": [
         "png"
@@ -1653,7 +1653,7 @@
     {
       "name": "gotify",
       "displayName": "Gotify",
-      "png": "png/gotify.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/gotify.png",
       "svg": null,
       "formats": [
         "png"
@@ -1662,8 +1662,8 @@
     {
       "name": "grafana",
       "displayName": "Grafana",
-      "png": "png/grafana.png",
-      "svg": "svg/grafana.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/grafana.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/grafana.svg",
       "formats": [
         "png",
         "svg"
@@ -1672,8 +1672,8 @@
     {
       "name": "grapheneos",
       "displayName": "Grapheneos",
-      "png": "png/grapheneos.png",
-      "svg": "svg/grapheneos.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/grapheneos.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/grapheneos.svg",
       "formats": [
         "png",
         "svg"
@@ -1682,7 +1682,7 @@
     {
       "name": "grav",
       "displayName": "Grav",
-      "png": "png/grav.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/grav.png",
       "svg": null,
       "formats": [
         "png"
@@ -1691,8 +1691,8 @@
     {
       "name": "graylog",
       "displayName": "Graylog",
-      "png": "png/graylog.png",
-      "svg": "svg/graylog.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/graylog.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/graylog.svg",
       "formats": [
         "png",
         "svg"
@@ -1701,8 +1701,8 @@
     {
       "name": "grocy",
       "displayName": "Grocy",
-      "png": "png/grocy.png",
-      "svg": "svg/grocy.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/grocy.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/grocy.svg",
       "formats": [
         "png",
         "svg"
@@ -1711,8 +1711,8 @@
     {
       "name": "guacamole",
       "displayName": "Guacamole",
-      "png": "png/guacamole.png",
-      "svg": "svg/guacamole.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/guacamole.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/guacamole.svg",
       "formats": [
         "png",
         "svg"
@@ -1721,7 +1721,7 @@
     {
       "name": "handbrake",
       "displayName": "Handbrake",
-      "png": "png/handbrake.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/handbrake.png",
       "svg": null,
       "formats": [
         "png"
@@ -1730,7 +1730,7 @@
     {
       "name": "haproxy",
       "displayName": "Haproxy",
-      "png": "png/haproxy.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/haproxy.png",
       "svg": null,
       "formats": [
         "png"
@@ -1739,8 +1739,8 @@
     {
       "name": "harbor",
       "displayName": "Harbor",
-      "png": "png/harbor.png",
-      "svg": "svg/harbor.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/harbor.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/harbor.svg",
       "formats": [
         "png",
         "svg"
@@ -1749,7 +1749,7 @@
     {
       "name": "hasura",
       "displayName": "Hasura",
-      "png": "png/hasura.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/hasura.png",
       "svg": null,
       "formats": [
         "png"
@@ -1758,7 +1758,7 @@
     {
       "name": "hdhomerun",
       "displayName": "Hdhomerun",
-      "png": "png/hdhomerun.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/hdhomerun.png",
       "svg": null,
       "formats": [
         "png"
@@ -1767,7 +1767,7 @@
     {
       "name": "headphones",
       "displayName": "Headphones",
-      "png": "png/headphones.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/headphones.png",
       "svg": null,
       "formats": [
         "png"
@@ -1776,8 +1776,8 @@
     {
       "name": "healthchecks",
       "displayName": "Healthchecks",
-      "png": "png/healthchecks.png",
-      "svg": "svg/healthchecks.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/healthchecks.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/healthchecks.svg",
       "formats": [
         "png",
         "svg"
@@ -1786,8 +1786,8 @@
     {
       "name": "hedgedoc",
       "displayName": "Hedgedoc",
-      "png": "png/hedgedoc.png",
-      "svg": "svg/hedgedoc.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/hedgedoc.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/hedgedoc.svg",
       "formats": [
         "png",
         "svg"
@@ -1796,7 +1796,7 @@
     {
       "name": "heimdall",
       "displayName": "Heimdall",
-      "png": "png/heimdall.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/heimdall.png",
       "svg": null,
       "formats": [
         "png"
@@ -1805,8 +1805,8 @@
     {
       "name": "hoarder",
       "displayName": "Hoarder",
-      "png": "png/hoarder.png",
-      "svg": "svg/hoarder.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/hoarder.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/hoarder.svg",
       "formats": [
         "png",
         "svg"
@@ -1815,8 +1815,8 @@
     {
       "name": "home-assistant",
       "displayName": "Home Assistant",
-      "png": "png/home-assistant.png",
-      "svg": "svg/home-assistant.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/home-assistant.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/home-assistant.svg",
       "formats": [
         "png",
         "svg"
@@ -1825,7 +1825,7 @@
     {
       "name": "homebox",
       "displayName": "Homebox",
-      "png": "png/homebox.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/homebox.png",
       "svg": null,
       "formats": [
         "png"
@@ -1834,7 +1834,7 @@
     {
       "name": "homebridge",
       "displayName": "Homebridge",
-      "png": "png/homebridge.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/homebridge.png",
       "svg": null,
       "formats": [
         "png"
@@ -1843,8 +1843,8 @@
     {
       "name": "homer",
       "displayName": "Homer",
-      "png": "png/homer.png",
-      "svg": "svg/homer.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/homer.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/homer.svg",
       "formats": [
         "png",
         "svg"
@@ -1853,7 +1853,7 @@
     {
       "name": "hp",
       "displayName": "Hp",
-      "png": "png/hp.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/hp.png",
       "svg": null,
       "formats": [
         "png"
@@ -1862,7 +1862,7 @@
     {
       "name": "html",
       "displayName": "Html",
-      "png": "png/html.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/html.png",
       "svg": null,
       "formats": [
         "png"
@@ -1871,7 +1871,7 @@
     {
       "name": "hubitat",
       "displayName": "Hubitat",
-      "png": "png/hubitat.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/hubitat.png",
       "svg": null,
       "formats": [
         "png"
@@ -1880,7 +1880,7 @@
     {
       "name": "huginn",
       "displayName": "Huginn",
-      "png": "png/huginn.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/huginn.png",
       "svg": null,
       "formats": [
         "png"
@@ -1889,8 +1889,8 @@
     {
       "name": "hugo",
       "displayName": "Hugo",
-      "png": "png/hugo.png",
-      "svg": "svg/hugo.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/hugo.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/hugo.svg",
       "formats": [
         "png",
         "svg"
@@ -1899,7 +1899,7 @@
     {
       "name": "hydra",
       "displayName": "Hydra",
-      "png": "png/hydra.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/hydra.png",
       "svg": null,
       "formats": [
         "png"
@@ -1908,7 +1908,7 @@
     {
       "name": "icecast",
       "displayName": "Icecast",
-      "png": "png/icecast.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/icecast.png",
       "svg": null,
       "formats": [
         "png"
@@ -1917,8 +1917,8 @@
     {
       "name": "icinga",
       "displayName": "Icinga",
-      "png": "png/icinga.png",
-      "svg": "svg/icinga.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/icinga.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/icinga.svg",
       "formats": [
         "png",
         "svg"
@@ -1927,7 +1927,7 @@
     {
       "name": "idrac",
       "displayName": "Idrac",
-      "png": "png/idrac.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/idrac.png",
       "svg": null,
       "formats": [
         "png"
@@ -1936,7 +1936,7 @@
     {
       "name": "ilo",
       "displayName": "Ilo",
-      "png": "png/ilo.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ilo.png",
       "svg": null,
       "formats": [
         "png"
@@ -1945,8 +1945,8 @@
     {
       "name": "immich-frame",
       "displayName": "Immich Frame",
-      "png": "png/immich-frame.png",
-      "svg": "svg/immich-frame.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/immich-frame.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/immich-frame.svg",
       "formats": [
         "png",
         "svg"
@@ -1955,8 +1955,8 @@
     {
       "name": "immich-kiosk",
       "displayName": "Immich Kiosk",
-      "png": "png/immich-kiosk.png",
-      "svg": "svg/immich-kiosk.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/immich-kiosk.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/immich-kiosk.svg",
       "formats": [
         "png",
         "svg"
@@ -1965,7 +1965,7 @@
     {
       "name": "immich-power-tools",
       "displayName": "Immich Power Tools",
-      "png": "png/immich-power-tools.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/immich-power-tools.png",
       "svg": null,
       "formats": [
         "png"
@@ -1974,8 +1974,8 @@
     {
       "name": "immich-public-proxy",
       "displayName": "Immich Public Proxy",
-      "png": "png/immich-public-proxy.png",
-      "svg": "svg/immich-public-proxy.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/immich-public-proxy.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/immich-public-proxy.svg",
       "formats": [
         "png",
         "svg"
@@ -1984,8 +1984,8 @@
     {
       "name": "immich",
       "displayName": "Immich",
-      "png": "png/immich.png",
-      "svg": "svg/immich.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/immich.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/immich.svg",
       "formats": [
         "png",
         "svg"
@@ -1994,8 +1994,8 @@
     {
       "name": "influxdb",
       "displayName": "Influxdb",
-      "png": "png/influxdb.png",
-      "svg": "svg/influxdb.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/influxdb.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/influxdb.svg",
       "formats": [
         "png",
         "svg"
@@ -2004,7 +2004,7 @@
     {
       "name": "infoblox",
       "displayName": "Infoblox",
-      "png": "png/infoblox.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/infoblox.png",
       "svg": null,
       "formats": [
         "png"
@@ -2013,8 +2013,8 @@
     {
       "name": "instagram",
       "displayName": "Instagram",
-      "png": "png/instagram.png",
-      "svg": "svg/instagram.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/instagram.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/instagram.svg",
       "formats": [
         "png",
         "svg"
@@ -2023,7 +2023,7 @@
     {
       "name": "invidious",
       "displayName": "Invidious",
-      "png": "png/invidious.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/invidious.png",
       "svg": null,
       "formats": [
         "png"
@@ -2032,8 +2032,8 @@
     {
       "name": "invoice-ninja",
       "displayName": "Invoice Ninja",
-      "png": "png/invoice-ninja.png",
-      "svg": "svg/invoice-ninja.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/invoice-ninja.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/invoice-ninja.svg",
       "formats": [
         "png",
         "svg"
@@ -2042,7 +2042,7 @@
     {
       "name": "invoiceninja",
       "displayName": "Invoiceninja",
-      "png": "png/invoiceninja.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/invoiceninja.png",
       "svg": null,
       "formats": [
         "png"
@@ -2051,7 +2051,7 @@
     {
       "name": "iobroker",
       "displayName": "Iobroker",
-      "png": "png/iobroker.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/iobroker.png",
       "svg": null,
       "formats": [
         "png"
@@ -2060,7 +2060,7 @@
     {
       "name": "irc",
       "displayName": "Irc",
-      "png": "png/irc.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/irc.png",
       "svg": null,
       "formats": [
         "png"
@@ -2069,7 +2069,7 @@
     {
       "name": "ittools",
       "displayName": "Ittools",
-      "png": "png/ittools.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ittools.png",
       "svg": null,
       "formats": [
         "png"
@@ -2078,7 +2078,7 @@
     {
       "name": "jackett",
       "displayName": "Jackett",
-      "png": "png/jackett.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jackett.png",
       "svg": null,
       "formats": [
         "png"
@@ -2087,7 +2087,7 @@
     {
       "name": "jaeger",
       "displayName": "Jaeger",
-      "png": "png/jaeger.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jaeger.png",
       "svg": null,
       "formats": [
         "png"
@@ -2096,7 +2096,7 @@
     {
       "name": "jdownloader",
       "displayName": "Jdownloader",
-      "png": "png/jdownloader.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jdownloader.png",
       "svg": null,
       "formats": [
         "png"
@@ -2105,7 +2105,7 @@
     {
       "name": "jeedom",
       "displayName": "Jeedom",
-      "png": "png/jeedom.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jeedom.png",
       "svg": null,
       "formats": [
         "png"
@@ -2114,8 +2114,8 @@
     {
       "name": "jellyfin",
       "displayName": "Jellyfin",
-      "png": "png/jellyfin.png",
-      "svg": "svg/jellyfin.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jellyfin.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/jellyfin.svg",
       "formats": [
         "png",
         "svg"
@@ -2124,8 +2124,8 @@
     {
       "name": "jellyseerr",
       "displayName": "Jellyseerr",
-      "png": "png/jellyseerr.png",
-      "svg": "svg/jellyseerr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jellyseerr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/jellyseerr.svg",
       "formats": [
         "png",
         "svg"
@@ -2134,8 +2134,8 @@
     {
       "name": "jellystat",
       "displayName": "Jellystat",
-      "png": "png/jellystat.png",
-      "svg": "svg/jellystat.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jellystat.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/jellystat.svg",
       "formats": [
         "png",
         "svg"
@@ -2144,8 +2144,8 @@
     {
       "name": "jenkins",
       "displayName": "Jenkins",
-      "png": "png/jenkins.png",
-      "svg": "svg/jenkins.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jenkins.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/jenkins.svg",
       "formats": [
         "png",
         "svg"
@@ -2154,8 +2154,8 @@
     {
       "name": "jitsi-meet",
       "displayName": "Jitsi Meet",
-      "png": "png/jitsi-meet.png",
-      "svg": "svg/jitsi-meet.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jitsi-meet.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/jitsi-meet.svg",
       "formats": [
         "png",
         "svg"
@@ -2164,7 +2164,7 @@
     {
       "name": "jitsimeet",
       "displayName": "Jitsimeet",
-      "png": "png/jitsimeet.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/jitsimeet.png",
       "svg": null,
       "formats": [
         "png"
@@ -2173,7 +2173,7 @@
     {
       "name": "joomla",
       "displayName": "Joomla",
-      "png": "png/joomla.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/joomla.png",
       "svg": null,
       "formats": [
         "png"
@@ -2182,8 +2182,8 @@
     {
       "name": "joplin",
       "displayName": "Joplin",
-      "png": "png/joplin.png",
-      "svg": "svg/joplin.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/joplin.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/joplin.svg",
       "formats": [
         "png",
         "svg"
@@ -2192,7 +2192,7 @@
     {
       "name": "kanboard",
       "displayName": "Kanboard",
-      "png": "png/kanboard.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kanboard.png",
       "svg": null,
       "formats": [
         "png"
@@ -2201,8 +2201,8 @@
     {
       "name": "kavita",
       "displayName": "Kavita",
-      "png": "png/kavita.png",
-      "svg": "svg/kavita.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kavita.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/kavita.svg",
       "formats": [
         "png",
         "svg"
@@ -2211,7 +2211,7 @@
     {
       "name": "keila",
       "displayName": "Keila",
-      "png": "png/keila.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/keila.png",
       "svg": null,
       "formats": [
         "png"
@@ -2220,8 +2220,8 @@
     {
       "name": "keycloak",
       "displayName": "Keycloak",
-      "png": "png/keycloak.png",
-      "svg": "svg/keycloak.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/keycloak.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/keycloak.svg",
       "formats": [
         "png",
         "svg"
@@ -2230,8 +2230,8 @@
     {
       "name": "kibana",
       "displayName": "Kibana",
-      "png": "png/kibana.png",
-      "svg": "svg/kibana.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kibana.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/kibana.svg",
       "formats": [
         "png",
         "svg"
@@ -2240,7 +2240,7 @@
     {
       "name": "kimai",
       "displayName": "Kimai",
-      "png": "png/kimai.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kimai.png",
       "svg": null,
       "formats": [
         "png"
@@ -2249,7 +2249,7 @@
     {
       "name": "kitana",
       "displayName": "Kitana",
-      "png": "png/kitana.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kitana.png",
       "svg": null,
       "formats": [
         "png"
@@ -2258,8 +2258,8 @@
     {
       "name": "kodi",
       "displayName": "Kodi",
-      "png": "png/kodi.png",
-      "svg": "svg/kodi.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kodi.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/kodi.svg",
       "formats": [
         "png",
         "svg"
@@ -2268,7 +2268,7 @@
     {
       "name": "kometa",
       "displayName": "Kometa",
-      "png": "png/kometa.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kometa.png",
       "svg": null,
       "formats": [
         "png"
@@ -2277,7 +2277,7 @@
     {
       "name": "komga",
       "displayName": "Komga",
-      "png": "png/komga.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/komga.png",
       "svg": null,
       "formats": [
         "png"
@@ -2286,7 +2286,7 @@
     {
       "name": "krusader",
       "displayName": "Krusader",
-      "png": "png/krusader.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/krusader.png",
       "svg": null,
       "formats": [
         "png"
@@ -2295,7 +2295,7 @@
     {
       "name": "kubernetes",
       "displayName": "Kubernetes",
-      "png": "png/kubernetes.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kubernetes.png",
       "svg": null,
       "formats": [
         "png"
@@ -2304,8 +2304,8 @@
     {
       "name": "kutt",
       "displayName": "Kutt",
-      "png": "png/kutt.png",
-      "svg": "svg/kutt.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/kutt.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/kutt.svg",
       "formats": [
         "png",
         "svg"
@@ -2314,7 +2314,7 @@
     {
       "name": "lancache",
       "displayName": "Lancache",
-      "png": "png/lancache.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lancache.png",
       "svg": null,
       "formats": [
         "png"
@@ -2323,8 +2323,8 @@
     {
       "name": "lastpass",
       "displayName": "Lastpass",
-      "png": "png/lastpass.png",
-      "svg": "svg/lastpass.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lastpass.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/lastpass.svg",
       "formats": [
         "png",
         "svg"
@@ -2333,7 +2333,7 @@
     {
       "name": "lazylibrarian",
       "displayName": "Lazylibrarian",
-      "png": "png/lazylibrarian.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lazylibrarian.png",
       "svg": null,
       "formats": [
         "png"
@@ -2342,8 +2342,8 @@
     {
       "name": "leantime",
       "displayName": "Leantime",
-      "png": "png/leantime.png",
-      "svg": "svg/leantime.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/leantime.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/leantime.svg",
       "formats": [
         "png",
         "svg"
@@ -2352,7 +2352,7 @@
     {
       "name": "lemonldapng",
       "displayName": "Lemonldapng",
-      "png": "png/lemonldapng.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lemonldapng.png",
       "svg": null,
       "formats": [
         "png"
@@ -2361,8 +2361,8 @@
     {
       "name": "lets-encrypt",
       "displayName": "Lets Encrypt",
-      "png": "png/lets-encrypt.png",
-      "svg": "svg/lets-encrypt.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lets-encrypt.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/lets-encrypt.svg",
       "formats": [
         "png",
         "svg"
@@ -2371,7 +2371,7 @@
     {
       "name": "librenms",
       "displayName": "Librenms",
-      "png": "png/librenms.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/librenms.png",
       "svg": null,
       "formats": [
         "png"
@@ -2380,7 +2380,7 @@
     {
       "name": "librephotos",
       "displayName": "Librephotos",
-      "png": "png/librephotos.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/librephotos.png",
       "svg": null,
       "formats": [
         "png"
@@ -2389,7 +2389,7 @@
     {
       "name": "librespeed",
       "displayName": "Librespeed",
-      "png": "png/librespeed.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/librespeed.png",
       "svg": null,
       "formats": [
         "png"
@@ -2398,8 +2398,8 @@
     {
       "name": "lidarr",
       "displayName": "Lidarr",
-      "png": "png/lidarr.png",
-      "svg": "svg/lidarr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lidarr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/lidarr.svg",
       "formats": [
         "png",
         "svg"
@@ -2408,7 +2408,7 @@
     {
       "name": "lidatube",
       "displayName": "Lidatube",
-      "png": "png/lidatube.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lidatube.png",
       "svg": null,
       "formats": [
         "png"
@@ -2417,8 +2417,8 @@
     {
       "name": "linkace",
       "displayName": "Linkace",
-      "png": "png/linkace.png",
-      "svg": "svg/linkace.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/linkace.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/linkace.svg",
       "formats": [
         "png",
         "svg"
@@ -2427,7 +2427,7 @@
     {
       "name": "linkding",
       "displayName": "Linkding",
-      "png": "png/linkding.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/linkding.png",
       "svg": null,
       "formats": [
         "png"
@@ -2436,8 +2436,8 @@
     {
       "name": "linkedin",
       "displayName": "Linkedin",
-      "png": "png/linkedin.png",
-      "svg": "svg/linkedin.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/linkedin.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/linkedin.svg",
       "formats": [
         "png",
         "svg"
@@ -2446,7 +2446,7 @@
     {
       "name": "linkwarden",
       "displayName": "Linkwarden",
-      "png": "png/linkwarden.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/linkwarden.png",
       "svg": null,
       "formats": [
         "png"
@@ -2455,8 +2455,8 @@
     {
       "name": "linux",
       "displayName": "Linux",
-      "png": "png/linux.png",
-      "svg": "svg/linux.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/linux.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/linux.svg",
       "formats": [
         "png",
         "svg"
@@ -2465,8 +2465,8 @@
     {
       "name": "linuxcontainers",
       "displayName": "Linuxcontainers",
-      "png": "png/linuxcontainers.png",
-      "svg": "svg/linuxcontainers.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/linuxcontainers.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/linuxcontainers.svg",
       "formats": [
         "png",
         "svg"
@@ -2475,8 +2475,8 @@
     {
       "name": "linuxserver-io",
       "displayName": "Linuxserver Io",
-      "png": "png/linuxserver-io.png",
-      "svg": "svg/linuxserver-io.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/linuxserver-io.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/linuxserver-io.svg",
       "formats": [
         "png",
         "svg"
@@ -2485,7 +2485,7 @@
     {
       "name": "listmonk",
       "displayName": "Listmonk",
-      "png": "png/listmonk.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/listmonk.png",
       "svg": null,
       "formats": [
         "png"
@@ -2494,7 +2494,7 @@
     {
       "name": "logstash",
       "displayName": "Logstash",
-      "png": "png/logstash.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/logstash.png",
       "svg": null,
       "formats": [
         "png"
@@ -2503,8 +2503,8 @@
     {
       "name": "loki",
       "displayName": "Loki",
-      "png": "png/loki.png",
-      "svg": "svg/loki.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/loki.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/loki.svg",
       "formats": [
         "png",
         "svg"
@@ -2513,7 +2513,7 @@
     {
       "name": "longhorn",
       "displayName": "Longhorn",
-      "png": "png/longhorn.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/longhorn.png",
       "svg": null,
       "formats": [
         "png"
@@ -2522,8 +2522,8 @@
     {
       "name": "lunasea",
       "displayName": "Lunasea",
-      "png": "png/lunasea.png",
-      "svg": "svg/lunasea.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lunasea.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/lunasea.svg",
       "formats": [
         "png",
         "svg"
@@ -2532,7 +2532,7 @@
     {
       "name": "lychee",
       "displayName": "Lychee",
-      "png": "png/lychee.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/lychee.png",
       "svg": null,
       "formats": [
         "png"
@@ -2541,8 +2541,8 @@
     {
       "name": "mailchimp",
       "displayName": "Mailchimp",
-      "png": "png/mailchimp.png",
-      "svg": "svg/mailchimp.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mailchimp.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mailchimp.svg",
       "formats": [
         "png",
         "svg"
@@ -2551,8 +2551,8 @@
     {
       "name": "mailcow",
       "displayName": "Mailcow",
-      "png": "png/mailcow.png",
-      "svg": "svg/mailcow.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mailcow.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mailcow.svg",
       "formats": [
         "png",
         "svg"
@@ -2561,7 +2561,7 @@
     {
       "name": "mailhog",
       "displayName": "Mailhog",
-      "png": "png/mailhog.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mailhog.png",
       "svg": null,
       "formats": [
         "png"
@@ -2570,7 +2570,7 @@
     {
       "name": "mainsail",
       "displayName": "Mainsail",
-      "png": "png/mainsail.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mainsail.png",
       "svg": null,
       "formats": [
         "png"
@@ -2579,7 +2579,7 @@
     {
       "name": "mak",
       "displayName": "Mak",
-      "png": "png/mak.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mak.png",
       "svg": null,
       "formats": [
         "png"
@@ -2588,8 +2588,8 @@
     {
       "name": "mastodon",
       "displayName": "Mastodon",
-      "png": "png/mastodon.png",
-      "svg": "svg/mastodon.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mastodon.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mastodon.svg",
       "formats": [
         "png",
         "svg"
@@ -2598,8 +2598,8 @@
     {
       "name": "matrix",
       "displayName": "Matrix",
-      "png": "png/matrix.png",
-      "svg": "svg/matrix.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/matrix.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/matrix.svg",
       "formats": [
         "png",
         "svg"
@@ -2608,8 +2608,8 @@
     {
       "name": "matter",
       "displayName": "Matter",
-      "png": "png/matter.png",
-      "svg": "svg/matter.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/matter.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/matter.svg",
       "formats": [
         "png",
         "svg"
@@ -2618,7 +2618,7 @@
     {
       "name": "mattermost",
       "displayName": "Mattermost",
-      "png": "png/mattermost.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mattermost.png",
       "svg": null,
       "formats": [
         "png"
@@ -2627,7 +2627,7 @@
     {
       "name": "mayanedms",
       "displayName": "Mayanedms",
-      "png": "png/mayanedms.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mayanedms.png",
       "svg": null,
       "formats": [
         "png"
@@ -2636,7 +2636,7 @@
     {
       "name": "mcmyadmin",
       "displayName": "Mcmyadmin",
-      "png": "png/mcmyadmin.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mcmyadmin.png",
       "svg": null,
       "formats": [
         "png"
@@ -2645,8 +2645,8 @@
     {
       "name": "mealie",
       "displayName": "Mealie",
-      "png": "png/mealie.png",
-      "svg": "svg/mealie.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mealie.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mealie.svg",
       "formats": [
         "png",
         "svg"
@@ -2655,7 +2655,7 @@
     {
       "name": "mediawiki",
       "displayName": "Mediawiki",
-      "png": "png/mediawiki.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mediawiki.png",
       "svg": null,
       "formats": [
         "png"
@@ -2664,7 +2664,7 @@
     {
       "name": "medusa",
       "displayName": "Medusa",
-      "png": "png/medusa.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/medusa.png",
       "svg": null,
       "formats": [
         "png"
@@ -2673,7 +2673,7 @@
     {
       "name": "meraki",
       "displayName": "Meraki",
-      "png": "png/meraki.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/meraki.png",
       "svg": null,
       "formats": [
         "png"
@@ -2682,8 +2682,8 @@
     {
       "name": "meshtastic",
       "displayName": "Meshtastic",
-      "png": "png/meshtastic.png",
-      "svg": "svg/meshtastic.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/meshtastic.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/meshtastic.svg",
       "formats": [
         "png",
         "svg"
@@ -2692,8 +2692,8 @@
     {
       "name": "microsoft-365",
       "displayName": "Microsoft 365",
-      "png": "png/microsoft-365.png",
-      "svg": "svg/microsoft-365.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-365.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-365.svg",
       "formats": [
         "png",
         "svg"
@@ -2702,8 +2702,8 @@
     {
       "name": "microsoft-access",
       "displayName": "Microsoft Access",
-      "png": "png/microsoft-access.png",
-      "svg": "svg/microsoft-access.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-access.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-access.svg",
       "formats": [
         "png",
         "svg"
@@ -2712,8 +2712,8 @@
     {
       "name": "microsoft-bing",
       "displayName": "Microsoft Bing",
-      "png": "png/microsoft-bing.png",
-      "svg": "svg/microsoft-bing.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-bing.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-bing.svg",
       "formats": [
         "png",
         "svg"
@@ -2722,8 +2722,8 @@
     {
       "name": "microsoft-copilot",
       "displayName": "Microsoft Copilot",
-      "png": "png/microsoft-copilot.png",
-      "svg": "svg/microsoft-copilot.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-copilot.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-copilot.svg",
       "formats": [
         "png",
         "svg"
@@ -2732,8 +2732,8 @@
     {
       "name": "microsoft-edge",
       "displayName": "Microsoft Edge",
-      "png": "png/microsoft-edge.png",
-      "svg": "svg/microsoft-edge.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-edge.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-edge.svg",
       "formats": [
         "png",
         "svg"
@@ -2742,8 +2742,8 @@
     {
       "name": "microsoft-excel",
       "displayName": "Microsoft Excel",
-      "png": "png/microsoft-excel.png",
-      "svg": "svg/microsoft-excel.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-excel.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-excel.svg",
       "formats": [
         "png",
         "svg"
@@ -2752,8 +2752,8 @@
     {
       "name": "microsoft-onedrive",
       "displayName": "Microsoft Onedrive",
-      "png": "png/microsoft-onedrive.png",
-      "svg": "svg/microsoft-onedrive.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-onedrive.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-onedrive.svg",
       "formats": [
         "png",
         "svg"
@@ -2762,8 +2762,8 @@
     {
       "name": "microsoft-onenote",
       "displayName": "Microsoft Onenote",
-      "png": "png/microsoft-onenote.png",
-      "svg": "svg/microsoft-onenote.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-onenote.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-onenote.svg",
       "formats": [
         "png",
         "svg"
@@ -2772,8 +2772,8 @@
     {
       "name": "microsoft-outlook",
       "displayName": "Microsoft Outlook",
-      "png": "png/microsoft-outlook.png",
-      "svg": "svg/microsoft-outlook.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-outlook.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-outlook.svg",
       "formats": [
         "png",
         "svg"
@@ -2782,8 +2782,8 @@
     {
       "name": "microsoft-powerpoint",
       "displayName": "Microsoft Powerpoint",
-      "png": "png/microsoft-powerpoint.png",
-      "svg": "svg/microsoft-powerpoint.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-powerpoint.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-powerpoint.svg",
       "formats": [
         "png",
         "svg"
@@ -2792,8 +2792,8 @@
     {
       "name": "microsoft-powertoys",
       "displayName": "Microsoft Powertoys",
-      "png": "png/microsoft-powertoys.png",
-      "svg": "svg/microsoft-powertoys.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-powertoys.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-powertoys.svg",
       "formats": [
         "png",
         "svg"
@@ -2802,8 +2802,8 @@
     {
       "name": "microsoft-sharepoint",
       "displayName": "Microsoft Sharepoint",
-      "png": "png/microsoft-sharepoint.png",
-      "svg": "svg/microsoft-sharepoint.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-sharepoint.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-sharepoint.svg",
       "formats": [
         "png",
         "svg"
@@ -2812,8 +2812,8 @@
     {
       "name": "microsoft-teams",
       "displayName": "Microsoft Teams",
-      "png": "png/microsoft-teams.png",
-      "svg": "svg/microsoft-teams.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-teams.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-teams.svg",
       "formats": [
         "png",
         "svg"
@@ -2822,8 +2822,8 @@
     {
       "name": "microsoft-to-do",
       "displayName": "Microsoft To Do",
-      "png": "png/microsoft-to-do.png",
-      "svg": "svg/microsoft-to-do.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-to-do.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-to-do.svg",
       "formats": [
         "png",
         "svg"
@@ -2832,8 +2832,8 @@
     {
       "name": "microsoft-windows",
       "displayName": "Microsoft Windows",
-      "png": "png/microsoft-windows.png",
-      "svg": "svg/microsoft-windows.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-windows.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-windows.svg",
       "formats": [
         "png",
         "svg"
@@ -2842,8 +2842,8 @@
     {
       "name": "microsoft-word",
       "displayName": "Microsoft Word",
-      "png": "png/microsoft-word.png",
-      "svg": "svg/microsoft-word.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft-word.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft-word.svg",
       "formats": [
         "png",
         "svg"
@@ -2852,8 +2852,8 @@
     {
       "name": "microsoft",
       "displayName": "Microsoft",
-      "png": "png/microsoft.png",
-      "svg": "svg/microsoft.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/microsoft.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/microsoft.svg",
       "formats": [
         "png",
         "svg"
@@ -2862,7 +2862,7 @@
     {
       "name": "mikrotik",
       "displayName": "Mikrotik",
-      "png": "png/mikrotik.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mikrotik.png",
       "svg": null,
       "formats": [
         "png"
@@ -2871,7 +2871,7 @@
     {
       "name": "mineos",
       "displayName": "Mineos",
-      "png": "png/mineos.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mineos.png",
       "svg": null,
       "formats": [
         "png"
@@ -2880,7 +2880,7 @@
     {
       "name": "miniflux",
       "displayName": "Miniflux",
-      "png": "png/miniflux.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/miniflux.png",
       "svg": null,
       "formats": [
         "png"
@@ -2889,8 +2889,8 @@
     {
       "name": "minio",
       "displayName": "Minio",
-      "png": "png/minio.png",
-      "svg": "svg/minio.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/minio.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/minio.svg",
       "formats": [
         "png",
         "svg"
@@ -2899,8 +2899,8 @@
     {
       "name": "mkdocs",
       "displayName": "Mkdocs",
-      "png": "png/mkdocs.png",
-      "svg": "svg/mkdocs.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mkdocs.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mkdocs.svg",
       "formats": [
         "png",
         "svg"
@@ -2909,7 +2909,7 @@
     {
       "name": "molecule",
       "displayName": "Molecule",
-      "png": "png/molecule.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/molecule.png",
       "svg": null,
       "formats": [
         "png"
@@ -2918,8 +2918,8 @@
     {
       "name": "mongodb",
       "displayName": "Mongodb",
-      "png": "png/mongodb.png",
-      "svg": "svg/mongodb.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mongodb.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mongodb.svg",
       "formats": [
         "png",
         "svg"
@@ -2928,7 +2928,7 @@
     {
       "name": "monica",
       "displayName": "Monica",
-      "png": "png/monica.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/monica.png",
       "svg": null,
       "formats": [
         "png"
@@ -2937,7 +2937,7 @@
     {
       "name": "monit",
       "displayName": "Monit",
-      "png": "png/monit.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/monit.png",
       "svg": null,
       "formats": [
         "png"
@@ -2946,7 +2946,7 @@
     {
       "name": "motioneye",
       "displayName": "Motioneye",
-      "png": "png/motioneye.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/motioneye.png",
       "svg": null,
       "formats": [
         "png"
@@ -2955,8 +2955,8 @@
     {
       "name": "mqtt",
       "displayName": "Mqtt",
-      "png": "png/mqtt.png",
-      "svg": "svg/mqtt.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mqtt.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mqtt.svg",
       "formats": [
         "png",
         "svg"
@@ -2965,8 +2965,8 @@
     {
       "name": "mumble",
       "displayName": "Mumble",
-      "png": "png/mumble.png",
-      "svg": "svg/mumble.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mumble.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mumble.svg",
       "formats": [
         "png",
         "svg"
@@ -2975,8 +2975,8 @@
     {
       "name": "music-assistant",
       "displayName": "Music Assistant",
-      "png": "png/music-assistant.png",
-      "svg": "svg/music-assistant.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/music-assistant.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/music-assistant.svg",
       "formats": [
         "png",
         "svg"
@@ -2985,7 +2985,7 @@
     {
       "name": "mylar",
       "displayName": "Mylar",
-      "png": "png/mylar.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mylar.png",
       "svg": null,
       "formats": [
         "png"
@@ -2994,8 +2994,8 @@
     {
       "name": "mysql",
       "displayName": "Mysql",
-      "png": "png/mysql.png",
-      "svg": "svg/mysql.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/mysql.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/mysql.svg",
       "formats": [
         "png",
         "svg"
@@ -3004,8 +3004,8 @@
     {
       "name": "n8n",
       "displayName": "N8N",
-      "png": "png/n8n.png",
-      "svg": "svg/n8n.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/n8n.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/n8n.svg",
       "formats": [
         "png",
         "svg"
@@ -3014,7 +3014,7 @@
     {
       "name": "nagios",
       "displayName": "Nagios",
-      "png": "png/nagios.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nagios.png",
       "svg": null,
       "formats": [
         "png"
@@ -3023,8 +3023,8 @@
     {
       "name": "namecheap",
       "displayName": "Namecheap",
-      "png": "png/namecheap.png",
-      "svg": "svg/namecheap.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/namecheap.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/namecheap.svg",
       "formats": [
         "png",
         "svg"
@@ -3033,7 +3033,7 @@
     {
       "name": "navidrome",
       "displayName": "Navidrome",
-      "png": "png/navidrome.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/navidrome.png",
       "svg": null,
       "formats": [
         "png"
@@ -3042,7 +3042,7 @@
     {
       "name": "ncore",
       "displayName": "Ncore",
-      "png": "png/ncore.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ncore.png",
       "svg": null,
       "formats": [
         "png"
@@ -3051,7 +3051,7 @@
     {
       "name": "nessus",
       "displayName": "Nessus",
-      "png": "png/nessus.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nessus.png",
       "svg": null,
       "formats": [
         "png"
@@ -3060,7 +3060,7 @@
     {
       "name": "netatmo",
       "displayName": "Netatmo",
-      "png": "png/netatmo.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/netatmo.png",
       "svg": null,
       "formats": [
         "png"
@@ -3069,8 +3069,8 @@
     {
       "name": "netboot-xyz",
       "displayName": "Netboot Xyz",
-      "png": "png/netboot-xyz.png",
-      "svg": "svg/netboot-xyz.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/netboot-xyz.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/netboot-xyz.svg",
       "formats": [
         "png",
         "svg"
@@ -3079,7 +3079,7 @@
     {
       "name": "netboot",
       "displayName": "Netboot",
-      "png": "png/netboot.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/netboot.png",
       "svg": null,
       "formats": [
         "png"
@@ -3088,8 +3088,8 @@
     {
       "name": "netbox",
       "displayName": "Netbox",
-      "png": "png/netbox.png",
-      "svg": "svg/netbox.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/netbox.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/netbox.svg",
       "formats": [
         "png",
         "svg"
@@ -3098,7 +3098,7 @@
     {
       "name": "netdata",
       "displayName": "Netdata",
-      "png": "png/netdata.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/netdata.png",
       "svg": null,
       "formats": [
         "png"
@@ -3107,8 +3107,8 @@
     {
       "name": "nextcloud",
       "displayName": "Nextcloud",
-      "png": "png/nextcloud.png",
-      "svg": "svg/nextcloud.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nextcloud.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/nextcloud.svg",
       "formats": [
         "png",
         "svg"
@@ -3117,8 +3117,8 @@
     {
       "name": "nginx",
       "displayName": "Nginx",
-      "png": "png/nginx.png",
-      "svg": "svg/nginx.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nginx.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/nginx.svg",
       "formats": [
         "png",
         "svg"
@@ -3127,7 +3127,7 @@
     {
       "name": "nginxproxymanager",
       "displayName": "Nginxproxymanager",
-      "png": "png/nginxproxymanager.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nginxproxymanager.png",
       "svg": null,
       "formats": [
         "png"
@@ -3136,8 +3136,8 @@
     {
       "name": "nintendo-switch",
       "displayName": "Nintendo Switch",
-      "png": "png/nintendo-switch.png",
-      "svg": "svg/nintendo-switch.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nintendo-switch.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/nintendo-switch.svg",
       "formats": [
         "png",
         "svg"
@@ -3146,8 +3146,8 @@
     {
       "name": "nixos",
       "displayName": "Nixos",
-      "png": "png/nixos.png",
-      "svg": "svg/nixos.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nixos.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/nixos.svg",
       "formats": [
         "png",
         "svg"
@@ -3156,7 +3156,7 @@
     {
       "name": "nodered",
       "displayName": "Nodered",
-      "png": "png/nodered.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nodered.png",
       "svg": null,
       "formats": [
         "png"
@@ -3165,8 +3165,8 @@
     {
       "name": "notion",
       "displayName": "Notion",
-      "png": "png/notion.png",
-      "svg": "svg/notion.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/notion.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/notion.svg",
       "formats": [
         "png",
         "svg"
@@ -3175,7 +3175,7 @@
     {
       "name": "nowshowing",
       "displayName": "Nowshowing",
-      "png": "png/nowshowing.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nowshowing.png",
       "svg": null,
       "formats": [
         "png"
@@ -3184,8 +3184,8 @@
     {
       "name": "ntop",
       "displayName": "Ntop",
-      "png": "png/ntop.png",
-      "svg": "svg/ntop.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ntop.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/ntop.svg",
       "formats": [
         "png",
         "svg"
@@ -3194,8 +3194,8 @@
     {
       "name": "nvidia",
       "displayName": "Nvidia",
-      "png": "png/nvidia.png",
-      "svg": "svg/nvidia.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nvidia.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/nvidia.svg",
       "formats": [
         "png",
         "svg"
@@ -3204,7 +3204,7 @@
     {
       "name": "nxfilter",
       "displayName": "Nxfilter",
-      "png": "png/nxfilter.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nxfilter.png",
       "svg": null,
       "formats": [
         "png"
@@ -3213,7 +3213,7 @@
     {
       "name": "nzbget",
       "displayName": "Nzbget",
-      "png": "png/nzbget.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nzbget.png",
       "svg": null,
       "formats": [
         "png"
@@ -3222,7 +3222,7 @@
     {
       "name": "nzbhydra",
       "displayName": "Nzbhydra",
-      "png": "png/nzbhydra.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/nzbhydra.png",
       "svg": null,
       "formats": [
         "png"
@@ -3231,8 +3231,8 @@
     {
       "name": "obsidian",
       "displayName": "Obsidian",
-      "png": "png/obsidian.png",
-      "svg": "svg/obsidian.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/obsidian.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/obsidian.svg",
       "formats": [
         "png",
         "svg"
@@ -3241,7 +3241,7 @@
     {
       "name": "octoprint",
       "displayName": "Octoprint",
-      "png": "png/octoprint.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/octoprint.png",
       "svg": null,
       "formats": [
         "png"
@@ -3250,8 +3250,8 @@
     {
       "name": "omada",
       "displayName": "Omada",
-      "png": "png/omada.png",
-      "svg": "svg/omada.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/omada.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/omada.svg",
       "formats": [
         "png",
         "svg"
@@ -3260,7 +3260,7 @@
     {
       "name": "ombi",
       "displayName": "Ombi",
-      "png": "png/ombi.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ombi.png",
       "svg": null,
       "formats": [
         "png"
@@ -3269,7 +3269,7 @@
     {
       "name": "omnidb",
       "displayName": "Omnidb",
-      "png": "png/omnidb.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/omnidb.png",
       "svg": null,
       "formats": [
         "png"
@@ -3278,7 +3278,7 @@
     {
       "name": "onlyoffice",
       "displayName": "Onlyoffice",
-      "png": "png/onlyoffice.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/onlyoffice.png",
       "svg": null,
       "formats": [
         "png"
@@ -3287,7 +3287,7 @@
     {
       "name": "openhab",
       "displayName": "Openhab",
-      "png": "png/openhab.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/openhab.png",
       "svg": null,
       "formats": [
         "png"
@@ -3296,7 +3296,7 @@
     {
       "name": "openmaptiler",
       "displayName": "Openmaptiler",
-      "png": "png/openmaptiler.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/openmaptiler.png",
       "svg": null,
       "formats": [
         "png"
@@ -3305,7 +3305,7 @@
     {
       "name": "openmediavault",
       "displayName": "Openmediavault",
-      "png": "png/openmediavault.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/openmediavault.png",
       "svg": null,
       "formats": [
         "png"
@@ -3314,7 +3314,7 @@
     {
       "name": "openspeedtest",
       "displayName": "Openspeedtest",
-      "png": "png/openspeedtest.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/openspeedtest.png",
       "svg": null,
       "formats": [
         "png"
@@ -3323,7 +3323,7 @@
     {
       "name": "opensprinkler",
       "displayName": "Opensprinkler",
-      "png": "png/opensprinkler.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/opensprinkler.png",
       "svg": null,
       "formats": [
         "png"
@@ -3332,8 +3332,8 @@
     {
       "name": "openvpn",
       "displayName": "Openvpn",
-      "png": "png/openvpn.png",
-      "svg": "svg/openvpn.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/openvpn.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/openvpn.svg",
       "formats": [
         "png",
         "svg"
@@ -3342,8 +3342,8 @@
     {
       "name": "openwrt",
       "displayName": "Openwrt",
-      "png": "png/openwrt.png",
-      "svg": "svg/openwrt.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/openwrt.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/openwrt.svg",
       "formats": [
         "png",
         "svg"
@@ -3352,8 +3352,8 @@
     {
       "name": "openzfs",
       "displayName": "Openzfs",
-      "png": "png/openzfs.png",
-      "svg": "svg/openzfs.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/openzfs.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/openzfs.svg",
       "formats": [
         "png",
         "svg"
@@ -3362,8 +3362,8 @@
     {
       "name": "opera",
       "displayName": "Opera",
-      "png": "png/opera.png",
-      "svg": "svg/opera.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/opera.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/opera.svg",
       "formats": [
         "png",
         "svg"
@@ -3372,8 +3372,8 @@
     {
       "name": "opnsense",
       "displayName": "Opnsense",
-      "png": "png/opnsense.png",
-      "svg": "svg/opnsense.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/opnsense.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/opnsense.svg",
       "formats": [
         "png",
         "svg"
@@ -3382,7 +3382,7 @@
     {
       "name": "osticket",
       "displayName": "Osticket",
-      "png": "png/osticket.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/osticket.png",
       "svg": null,
       "formats": [
         "png"
@@ -3391,8 +3391,8 @@
     {
       "name": "overseerr",
       "displayName": "Overseerr",
-      "png": "png/overseerr.png",
-      "svg": "svg/overseerr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/overseerr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/overseerr.svg",
       "formats": [
         "png",
         "svg"
@@ -3401,7 +3401,7 @@
     {
       "name": "owncloud",
       "displayName": "Owncloud",
-      "png": "png/owncloud.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/owncloud.png",
       "svg": null,
       "formats": [
         "png"
@@ -3410,7 +3410,7 @@
     {
       "name": "ownphotos",
       "displayName": "Ownphotos",
-      "png": "png/ownphotos.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ownphotos.png",
       "svg": null,
       "formats": [
         "png"
@@ -3419,7 +3419,7 @@
     {
       "name": "pagerduty",
       "displayName": "Pagerduty",
-      "png": "png/pagerduty.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pagerduty.png",
       "svg": null,
       "formats": [
         "png"
@@ -3428,7 +3428,7 @@
     {
       "name": "paloaltonetworks",
       "displayName": "Paloaltonetworks",
-      "png": "png/paloaltonetworks.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/paloaltonetworks.png",
       "svg": null,
       "formats": [
         "png"
@@ -3437,7 +3437,7 @@
     {
       "name": "paperless-ai",
       "displayName": "Paperless Ai",
-      "png": "png/paperless-ai.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/paperless-ai.png",
       "svg": null,
       "formats": [
         "png"
@@ -3446,7 +3446,7 @@
     {
       "name": "paperless-ng",
       "displayName": "Paperless Ng",
-      "png": "png/paperless-ng.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/paperless-ng.png",
       "svg": null,
       "formats": [
         "png"
@@ -3455,7 +3455,7 @@
     {
       "name": "papermerge",
       "displayName": "Papermerge",
-      "png": "png/papermerge.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/papermerge.png",
       "svg": null,
       "formats": [
         "png"
@@ -3464,7 +3464,7 @@
     {
       "name": "partkeepr",
       "displayName": "Partkeepr",
-      "png": "png/partkeepr.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/partkeepr.png",
       "svg": null,
       "formats": [
         "png"
@@ -3473,7 +3473,7 @@
     {
       "name": "peertube",
       "displayName": "Peertube",
-      "png": "png/peertube.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/peertube.png",
       "svg": null,
       "formats": [
         "png"
@@ -3482,8 +3482,8 @@
     {
       "name": "pfsense",
       "displayName": "Pfsense",
-      "png": "png/pfsense.png",
-      "svg": "svg/pfsense.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pfsense.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/pfsense.svg",
       "formats": [
         "png",
         "svg"
@@ -3492,7 +3492,7 @@
     {
       "name": "pgadmin",
       "displayName": "Pgadmin",
-      "png": "png/pgadmin.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pgadmin.png",
       "svg": null,
       "formats": [
         "png"
@@ -3501,7 +3501,7 @@
     {
       "name": "phantombot",
       "displayName": "Phantombot",
-      "png": "png/phantombot.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/phantombot.png",
       "svg": null,
       "formats": [
         "png"
@@ -3510,8 +3510,8 @@
     {
       "name": "photoprism",
       "displayName": "Photoprism",
-      "png": "png/photoprism.png",
-      "svg": "svg/photoprism.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/photoprism.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/photoprism.svg",
       "formats": [
         "png",
         "svg"
@@ -3520,7 +3520,7 @@
     {
       "name": "photostructure",
       "displayName": "Photostructure",
-      "png": "png/photostructure.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/photostructure.png",
       "svg": null,
       "formats": [
         "png"
@@ -3529,7 +3529,7 @@
     {
       "name": "photoview",
       "displayName": "Photoview",
-      "png": "png/photoview.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/photoview.png",
       "svg": null,
       "formats": [
         "png"
@@ -3538,7 +3538,7 @@
     {
       "name": "phpldapadmin",
       "displayName": "Phpldapadmin",
-      "png": "png/phpldapadmin.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/phpldapadmin.png",
       "svg": null,
       "formats": [
         "png"
@@ -3547,7 +3547,7 @@
     {
       "name": "phpmyadmin",
       "displayName": "Phpmyadmin",
-      "png": "png/phpmyadmin.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/phpmyadmin.png",
       "svg": null,
       "formats": [
         "png"
@@ -3556,8 +3556,8 @@
     {
       "name": "pi-hole",
       "displayName": "Pi Hole",
-      "png": "png/pi-hole.png",
-      "svg": "svg/pi-hole.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pi-hole.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/pi-hole.svg",
       "formats": [
         "png",
         "svg"
@@ -3566,7 +3566,7 @@
     {
       "name": "piaware",
       "displayName": "Piaware",
-      "png": "png/piaware.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/piaware.png",
       "svg": null,
       "formats": [
         "png"
@@ -3575,7 +3575,7 @@
     {
       "name": "pihole",
       "displayName": "Pihole",
-      "png": "png/pihole.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pihole.png",
       "svg": null,
       "formats": [
         "png"
@@ -3584,7 +3584,7 @@
     {
       "name": "pinchflat",
       "displayName": "Pinchflat",
-      "png": "png/pinchflat.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pinchflat.png",
       "svg": null,
       "formats": [
         "png"
@@ -3593,7 +3593,7 @@
     {
       "name": "pingdom",
       "displayName": "Pingdom",
-      "png": "png/pingdom.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pingdom.png",
       "svg": null,
       "formats": [
         "png"
@@ -3602,8 +3602,8 @@
     {
       "name": "pinterest",
       "displayName": "Pinterest",
-      "png": "png/pinterest.png",
-      "svg": "svg/pinterest.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pinterest.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/pinterest.svg",
       "formats": [
         "png",
         "svg"
@@ -3612,8 +3612,8 @@
     {
       "name": "piped",
       "displayName": "Piped",
-      "png": "png/piped.png",
-      "svg": "svg/piped.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/piped.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/piped.svg",
       "formats": [
         "png",
         "svg"
@@ -3622,7 +3622,7 @@
     {
       "name": "piwigo",
       "displayName": "Piwigo",
-      "png": "png/piwigo.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/piwigo.png",
       "svg": null,
       "formats": [
         "png"
@@ -3631,8 +3631,8 @@
     {
       "name": "pixelfed",
       "displayName": "Pixelfed",
-      "png": "png/pixelfed.png",
-      "svg": "svg/pixelfed.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pixelfed.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/pixelfed.svg",
       "formats": [
         "png",
         "svg"
@@ -3641,8 +3641,8 @@
     {
       "name": "plausible",
       "displayName": "Plausible",
-      "png": "png/plausible.png",
-      "svg": "svg/plausible.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/plausible.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/plausible.svg",
       "formats": [
         "png",
         "svg"
@@ -3651,8 +3651,8 @@
     {
       "name": "playstation",
       "displayName": "Playstation",
-      "png": "png/playstation.png",
-      "svg": "svg/playstation.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/playstation.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/playstation.svg",
       "formats": [
         "png",
         "svg"
@@ -3661,7 +3661,7 @@
     {
       "name": "pleroma",
       "displayName": "Pleroma",
-      "png": "png/pleroma.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pleroma.png",
       "svg": null,
       "formats": [
         "png"
@@ -3670,7 +3670,7 @@
     {
       "name": "plesk",
       "displayName": "Plesk",
-      "png": "png/plesk.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/plesk.png",
       "svg": null,
       "formats": [
         "png"
@@ -3679,8 +3679,8 @@
     {
       "name": "plex",
       "displayName": "Plex",
-      "png": "png/plex.png",
-      "svg": "svg/plex.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/plex.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/plex.svg",
       "formats": [
         "png",
         "svg"
@@ -3689,7 +3689,7 @@
     {
       "name": "plexdrive",
       "displayName": "Plexdrive",
-      "png": "png/plexdrive.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/plexdrive.png",
       "svg": null,
       "formats": [
         "png"
@@ -3698,7 +3698,7 @@
     {
       "name": "plexrequests",
       "displayName": "Plexrequests",
-      "png": "png/plexrequests.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/plexrequests.png",
       "svg": null,
       "formats": [
         "png"
@@ -3707,7 +3707,7 @@
     {
       "name": "plume",
       "displayName": "Plume",
-      "png": "png/plume.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/plume.png",
       "svg": null,
       "formats": [
         "png"
@@ -3716,7 +3716,7 @@
     {
       "name": "podify",
       "displayName": "Podify",
-      "png": "png/podify.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/podify.png",
       "svg": null,
       "formats": [
         "png"
@@ -3725,8 +3725,8 @@
     {
       "name": "porkbun",
       "displayName": "Porkbun",
-      "png": "png/porkbun.png",
-      "svg": "svg/porkbun.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/porkbun.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/porkbun.svg",
       "formats": [
         "png",
         "svg"
@@ -3735,8 +3735,8 @@
     {
       "name": "portainer",
       "displayName": "Portainer",
-      "png": "png/portainer.png",
-      "svg": "svg/portainer.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/portainer.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/portainer.svg",
       "formats": [
         "png",
         "svg"
@@ -3745,7 +3745,7 @@
     {
       "name": "portus",
       "displayName": "Portus",
-      "png": "png/portus.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/portus.png",
       "svg": null,
       "formats": [
         "png"
@@ -3754,8 +3754,8 @@
     {
       "name": "postgresql",
       "displayName": "Postgresql",
-      "png": "png/postgresql.png",
-      "svg": "svg/postgresql.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/postgresql.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/postgresql.svg",
       "formats": [
         "png",
         "svg"
@@ -3764,8 +3764,8 @@
     {
       "name": "postiz",
       "displayName": "Postiz",
-      "png": "png/postiz.png",
-      "svg": "svg/postiz.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/postiz.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/postiz.svg",
       "formats": [
         "png",
         "svg"
@@ -3774,7 +3774,7 @@
     {
       "name": "printer",
       "displayName": "Printer",
-      "png": "png/printer.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/printer.png",
       "svg": null,
       "formats": [
         "png"
@@ -3783,7 +3783,7 @@
     {
       "name": "privatebin",
       "displayName": "Privatebin",
-      "png": "png/privatebin.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/privatebin.png",
       "svg": null,
       "formats": [
         "png"
@@ -3792,7 +3792,7 @@
     {
       "name": "projectsend",
       "displayName": "Projectsend",
-      "png": "png/projectsend.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/projectsend.png",
       "svg": null,
       "formats": [
         "png"
@@ -3801,8 +3801,8 @@
     {
       "name": "prometheus",
       "displayName": "Prometheus",
-      "png": "png/prometheus.png",
-      "svg": "svg/prometheus.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/prometheus.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/prometheus.svg",
       "formats": [
         "png",
         "svg"
@@ -3811,8 +3811,8 @@
     {
       "name": "proton-calendar",
       "displayName": "Proton Calendar",
-      "png": "png/proton-calendar.png",
-      "svg": "svg/proton-calendar.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/proton-calendar.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/proton-calendar.svg",
       "formats": [
         "png",
         "svg"
@@ -3821,8 +3821,8 @@
     {
       "name": "proton-drive",
       "displayName": "Proton Drive",
-      "png": "png/proton-drive.png",
-      "svg": "svg/proton-drive.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/proton-drive.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/proton-drive.svg",
       "formats": [
         "png",
         "svg"
@@ -3831,8 +3831,8 @@
     {
       "name": "proton-pass",
       "displayName": "Proton Pass",
-      "png": "png/proton-pass.png",
-      "svg": "svg/proton-pass.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/proton-pass.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/proton-pass.svg",
       "formats": [
         "png",
         "svg"
@@ -3841,8 +3841,8 @@
     {
       "name": "proton-vpn",
       "displayName": "Proton Vpn",
-      "png": "png/proton-vpn.png",
-      "svg": "svg/proton-vpn.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/proton-vpn.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/proton-vpn.svg",
       "formats": [
         "png",
         "svg"
@@ -3851,8 +3851,8 @@
     {
       "name": "proton-wallet",
       "displayName": "Proton Wallet",
-      "png": "png/proton-wallet.png",
-      "svg": "svg/proton-wallet.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/proton-wallet.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/proton-wallet.svg",
       "formats": [
         "png",
         "svg"
@@ -3861,8 +3861,8 @@
     {
       "name": "protonmail",
       "displayName": "Protonmail",
-      "png": "png/protonmail.png",
-      "svg": "svg/protonmail.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/protonmail.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/protonmail.svg",
       "formats": [
         "png",
         "svg"
@@ -3871,8 +3871,8 @@
     {
       "name": "prowlarr",
       "displayName": "Prowlarr",
-      "png": "png/prowlarr.png",
-      "svg": "svg/prowlarr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/prowlarr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/prowlarr.svg",
       "formats": [
         "png",
         "svg"
@@ -3881,8 +3881,8 @@
     {
       "name": "proxmox",
       "displayName": "Proxmox",
-      "png": "png/proxmox.png",
-      "svg": "svg/proxmox.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/proxmox.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/proxmox.svg",
       "formats": [
         "png",
         "svg"
@@ -3891,7 +3891,7 @@
     {
       "name": "prtg",
       "displayName": "Prtg",
-      "png": "png/prtg.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/prtg.png",
       "svg": null,
       "formats": [
         "png"
@@ -3900,7 +3900,7 @@
     {
       "name": "psitransfer",
       "displayName": "Psitransfer",
-      "png": "png/psitransfer.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/psitransfer.png",
       "svg": null,
       "formats": [
         "png"
@@ -3909,7 +3909,7 @@
     {
       "name": "pterodactyl",
       "displayName": "Pterodactyl",
-      "png": "png/pterodactyl.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pterodactyl.png",
       "svg": null,
       "formats": [
         "png"
@@ -3918,8 +3918,8 @@
     {
       "name": "pushover",
       "displayName": "Pushover",
-      "png": "png/pushover.png",
-      "svg": "svg/pushover.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pushover.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/pushover.svg",
       "formats": [
         "png",
         "svg"
@@ -3928,8 +3928,8 @@
     {
       "name": "pyload",
       "displayName": "Pyload",
-      "png": "png/pyload.png",
-      "svg": "svg/pyload.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/pyload.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/pyload.svg",
       "formats": [
         "png",
         "svg"
@@ -3938,8 +3938,8 @@
     {
       "name": "qbittorrent",
       "displayName": "Qbittorrent",
-      "png": "png/qbittorrent.png",
-      "svg": "svg/qbittorrent.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/qbittorrent.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/qbittorrent.svg",
       "formats": [
         "png",
         "svg"
@@ -3948,7 +3948,7 @@
     {
       "name": "qnap",
       "displayName": "Qnap",
-      "png": "png/qnap.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/qnap.png",
       "svg": null,
       "formats": [
         "png"
@@ -3957,7 +3957,7 @@
     {
       "name": "rabbitmq",
       "displayName": "Rabbitmq",
-      "png": "png/rabbitmq.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rabbitmq.png",
       "svg": null,
       "formats": [
         "png"
@@ -3966,8 +3966,8 @@
     {
       "name": "radarr",
       "displayName": "Radarr",
-      "png": "png/radarr.png",
-      "svg": "svg/radarr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/radarr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/radarr.svg",
       "formats": [
         "png",
         "svg"
@@ -3976,7 +3976,7 @@
     {
       "name": "rainloop",
       "displayName": "Rainloop",
-      "png": "png/rainloop.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rainloop.png",
       "svg": null,
       "formats": [
         "png"
@@ -3985,7 +3985,7 @@
     {
       "name": "rancher",
       "displayName": "Rancher",
-      "png": "png/rancher.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rancher.png",
       "svg": null,
       "formats": [
         "png"
@@ -3994,7 +3994,7 @@
     {
       "name": "raneto",
       "displayName": "Raneto",
-      "png": "png/raneto.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/raneto.png",
       "svg": null,
       "formats": [
         "png"
@@ -4003,7 +4003,7 @@
     {
       "name": "raspap",
       "displayName": "Raspap",
-      "png": "png/raspap.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/raspap.png",
       "svg": null,
       "formats": [
         "png"
@@ -4012,8 +4012,8 @@
     {
       "name": "raspberry-pi",
       "displayName": "Raspberry Pi",
-      "png": "png/raspberry-pi.png",
-      "svg": "svg/raspberry-pi.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/raspberry-pi.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/raspberry-pi.svg",
       "formats": [
         "png",
         "svg"
@@ -4022,7 +4022,7 @@
     {
       "name": "rclone",
       "displayName": "Rclone",
-      "png": "png/rclone.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rclone.png",
       "svg": null,
       "formats": [
         "png"
@@ -4031,8 +4031,8 @@
     {
       "name": "readarr",
       "displayName": "Readarr",
-      "png": "png/readarr.png",
-      "svg": "svg/readarr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/readarr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/readarr.svg",
       "formats": [
         "png",
         "svg"
@@ -4041,7 +4041,7 @@
     {
       "name": "recalbox",
       "displayName": "Recalbox",
-      "png": "png/recalbox.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/recalbox.png",
       "svg": null,
       "formats": [
         "png"
@@ -4050,8 +4050,8 @@
     {
       "name": "reddit",
       "displayName": "Reddit",
-      "png": "png/reddit.png",
-      "svg": "svg/reddit.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/reddit.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/reddit.svg",
       "formats": [
         "png",
         "svg"
@@ -4060,8 +4060,8 @@
     {
       "name": "redis",
       "displayName": "Redis",
-      "png": "png/redis.png",
-      "svg": "svg/redis.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/redis.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/redis.svg",
       "formats": [
         "png",
         "svg"
@@ -4070,7 +4070,7 @@
     {
       "name": "requestrr",
       "displayName": "Requestrr",
-      "png": "png/requestrr.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/requestrr.png",
       "svg": null,
       "formats": [
         "png"
@@ -4079,7 +4079,7 @@
     {
       "name": "resiliosync",
       "displayName": "Resiliosync",
-      "png": "png/resiliosync.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/resiliosync.png",
       "svg": null,
       "formats": [
         "png"
@@ -4088,7 +4088,7 @@
     {
       "name": "riot",
       "displayName": "Riot",
-      "png": "png/riot.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/riot.png",
       "svg": null,
       "formats": [
         "png"
@@ -4097,7 +4097,7 @@
     {
       "name": "rocketchat",
       "displayName": "Rocketchat",
-      "png": "png/rocketchat.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rocketchat.png",
       "svg": null,
       "formats": [
         "png"
@@ -4106,7 +4106,7 @@
     {
       "name": "rompya",
       "displayName": "Rompya",
-      "png": "png/rompya.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rompya.png",
       "svg": null,
       "formats": [
         "png"
@@ -4115,7 +4115,7 @@
     {
       "name": "rook",
       "displayName": "Rook",
-      "png": "png/rook.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rook.png",
       "svg": null,
       "formats": [
         "png"
@@ -4124,8 +4124,8 @@
     {
       "name": "roundcube",
       "displayName": "Roundcube",
-      "png": "png/roundcube.png",
-      "svg": "svg/roundcube.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/roundcube.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/roundcube.svg",
       "formats": [
         "png",
         "svg"
@@ -4134,7 +4134,7 @@
     {
       "name": "router",
       "displayName": "Router",
-      "png": "png/router.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/router.png",
       "svg": null,
       "formats": [
         "png"
@@ -4143,7 +4143,7 @@
     {
       "name": "rspamd",
       "displayName": "Rspamd",
-      "png": "png/rspamd.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rspamd.png",
       "svg": null,
       "formats": [
         "png"
@@ -4152,7 +4152,7 @@
     {
       "name": "rstudioserver",
       "displayName": "Rstudioserver",
-      "png": "png/rstudioserver.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rstudioserver.png",
       "svg": null,
       "formats": [
         "png"
@@ -4161,7 +4161,7 @@
     {
       "name": "rundeck",
       "displayName": "Rundeck",
-      "png": "png/rundeck.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rundeck.png",
       "svg": null,
       "formats": [
         "png"
@@ -4170,7 +4170,7 @@
     {
       "name": "runeaudio",
       "displayName": "Runeaudio",
-      "png": "png/runeaudio.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/runeaudio.png",
       "svg": null,
       "formats": [
         "png"
@@ -4179,7 +4179,7 @@
     {
       "name": "rutorrent",
       "displayName": "Rutorrent",
-      "png": "png/rutorrent.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/rutorrent.png",
       "svg": null,
       "formats": [
         "png"
@@ -4188,8 +4188,8 @@
     {
       "name": "sabnzbd",
       "displayName": "Sabnzbd",
-      "png": "png/sabnzbd.png",
-      "svg": "svg/sabnzbd.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sabnzbd.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/sabnzbd.svg",
       "formats": [
         "png",
         "svg"
@@ -4198,7 +4198,7 @@
     {
       "name": "safari",
       "displayName": "Safari",
-      "png": "png/safari.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/safari.png",
       "svg": null,
       "formats": [
         "png"
@@ -4207,7 +4207,7 @@
     {
       "name": "scrutiny",
       "displayName": "Scrutiny",
-      "png": "png/scrutiny.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/scrutiny.png",
       "svg": null,
       "formats": [
         "png"
@@ -4216,8 +4216,8 @@
     {
       "name": "seafile",
       "displayName": "Seafile",
-      "png": "png/seafile.png",
-      "svg": "svg/seafile.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/seafile.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/seafile.svg",
       "formats": [
         "png",
         "svg"
@@ -4226,7 +4226,7 @@
     {
       "name": "searxmetasearchengine",
       "displayName": "Searxmetasearchengine",
-      "png": "png/searxmetasearchengine.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/searxmetasearchengine.png",
       "svg": null,
       "formats": [
         "png"
@@ -4235,7 +4235,7 @@
     {
       "name": "serviio",
       "displayName": "Serviio",
-      "png": "png/serviio.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/serviio.png",
       "svg": null,
       "formats": [
         "png"
@@ -4244,7 +4244,7 @@
     {
       "name": "shaarli",
       "displayName": "Shaarli",
-      "png": "png/shaarli.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/shaarli.png",
       "svg": null,
       "formats": [
         "png"
@@ -4253,7 +4253,7 @@
     {
       "name": "shinobi",
       "displayName": "Shinobi",
-      "png": "png/shinobi.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/shinobi.png",
       "svg": null,
       "formats": [
         "png"
@@ -4262,8 +4262,8 @@
     {
       "name": "shlink",
       "displayName": "Shlink",
-      "png": "png/shlink.png",
-      "svg": "svg/shlink.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/shlink.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/shlink.svg",
       "formats": [
         "png",
         "svg"
@@ -4272,7 +4272,7 @@
     {
       "name": "sickbeard",
       "displayName": "Sickbeard",
-      "png": "png/sickbeard.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sickbeard.png",
       "svg": null,
       "formats": [
         "png"
@@ -4281,7 +4281,7 @@
     {
       "name": "sickchill",
       "displayName": "Sickchill",
-      "png": "png/sickchill.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sickchill.png",
       "svg": null,
       "formats": [
         "png"
@@ -4290,7 +4290,7 @@
     {
       "name": "sickgear",
       "displayName": "Sickgear",
-      "png": "png/sickgear.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sickgear.png",
       "svg": null,
       "formats": [
         "png"
@@ -4299,8 +4299,8 @@
     {
       "name": "signal",
       "displayName": "Signal",
-      "png": "png/signal.png",
-      "svg": "svg/signal.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/signal.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/signal.svg",
       "formats": [
         "png",
         "svg"
@@ -4309,7 +4309,7 @@
     {
       "name": "sinusbot",
       "displayName": "Sinusbot",
-      "png": "png/sinusbot.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sinusbot.png",
       "svg": null,
       "formats": [
         "png"
@@ -4318,8 +4318,8 @@
     {
       "name": "skype",
       "displayName": "Skype",
-      "png": "png/skype.png",
-      "svg": "svg/skype.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/skype.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/skype.svg",
       "formats": [
         "png",
         "svg"
@@ -4328,8 +4328,8 @@
     {
       "name": "slack",
       "displayName": "Slack",
-      "png": "png/slack.png",
-      "svg": "svg/slack.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/slack.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/slack.svg",
       "formats": [
         "png",
         "svg"
@@ -4338,8 +4338,8 @@
     {
       "name": "snapchat",
       "displayName": "Snapchat",
-      "png": "png/snapchat.png",
-      "svg": "svg/snapchat.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/snapchat.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/snapchat.svg",
       "formats": [
         "png",
         "svg"
@@ -4348,7 +4348,7 @@
     {
       "name": "snibox",
       "displayName": "Snibox",
-      "png": "png/snibox.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/snibox.png",
       "svg": null,
       "formats": [
         "png"
@@ -4357,8 +4357,8 @@
     {
       "name": "sogo",
       "displayName": "Sogo",
-      "png": "png/sogo.png",
-      "svg": "svg/sogo.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sogo.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/sogo.svg",
       "formats": [
         "png",
         "svg"
@@ -4367,7 +4367,7 @@
     {
       "name": "sonarqube",
       "displayName": "Sonarqube",
-      "png": "png/sonarqube.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sonarqube.png",
       "svg": null,
       "formats": [
         "png"
@@ -4376,8 +4376,8 @@
     {
       "name": "sonarr-radarr",
       "displayName": "Sonarr Radarr",
-      "png": "png/sonarr-radarr.png",
-      "svg": "svg/sonarr-radarr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sonarr-radarr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/sonarr-radarr.svg",
       "formats": [
         "png",
         "svg"
@@ -4386,8 +4386,8 @@
     {
       "name": "sonarr",
       "displayName": "Sonarr",
-      "png": "png/sonarr.png",
-      "svg": "svg/sonarr.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sonarr.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/sonarr.svg",
       "formats": [
         "png",
         "svg"
@@ -4396,7 +4396,7 @@
     {
       "name": "sourcegraph",
       "displayName": "Sourcegraph",
-      "png": "png/sourcegraph.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/sourcegraph.png",
       "svg": null,
       "formats": [
         "png"
@@ -4405,7 +4405,7 @@
     {
       "name": "splunk",
       "displayName": "Splunk",
-      "png": "png/splunk.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/splunk.png",
       "svg": null,
       "formats": [
         "png"
@@ -4414,7 +4414,7 @@
     {
       "name": "spotweb",
       "displayName": "Spotweb",
-      "png": "png/spotweb.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/spotweb.png",
       "svg": null,
       "formats": [
         "png"
@@ -4423,7 +4423,7 @@
     {
       "name": "squidex",
       "displayName": "Squidex",
-      "png": "png/squidex.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/squidex.png",
       "svg": null,
       "formats": [
         "png"
@@ -4432,7 +4432,7 @@
     {
       "name": "statping",
       "displayName": "Statping",
-      "png": "png/statping.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/statping.png",
       "svg": null,
       "formats": [
         "png"
@@ -4441,8 +4441,8 @@
     {
       "name": "steam",
       "displayName": "Steam",
-      "png": "png/steam.png",
-      "svg": "svg/steam.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/steam.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/steam.svg",
       "formats": [
         "png",
         "svg"
@@ -4451,8 +4451,8 @@
     {
       "name": "step-ca",
       "displayName": "Step Ca",
-      "png": "png/step-ca.png",
-      "svg": "svg/step-ca.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/step-ca.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/step-ca.svg",
       "formats": [
         "png",
         "svg"
@@ -4461,7 +4461,7 @@
     {
       "name": "strapi",
       "displayName": "Strapi",
-      "png": "png/strapi.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/strapi.png",
       "svg": null,
       "formats": [
         "png"
@@ -4470,7 +4470,7 @@
     {
       "name": "streama",
       "displayName": "Streama",
-      "png": "png/streama.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/streama.png",
       "svg": null,
       "formats": [
         "png"
@@ -4479,7 +4479,7 @@
     {
       "name": "suggestarr",
       "displayName": "Suggestarr",
-      "png": "png/suggestarr.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/suggestarr.png",
       "svg": null,
       "formats": [
         "png"
@@ -4488,8 +4488,8 @@
     {
       "name": "synapse",
       "displayName": "Synapse",
-      "png": "png/synapse.png",
-      "svg": "svg/synapse.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/synapse.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/synapse.svg",
       "formats": [
         "png",
         "svg"
@@ -4498,7 +4498,7 @@
     {
       "name": "synclounge",
       "displayName": "Synclounge",
-      "png": "png/synclounge.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/synclounge.png",
       "svg": null,
       "formats": [
         "png"
@@ -4507,8 +4507,8 @@
     {
       "name": "syncthing",
       "displayName": "Syncthing",
-      "png": "png/syncthing.png",
-      "svg": "svg/syncthing.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/syncthing.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/syncthing.svg",
       "formats": [
         "png",
         "svg"
@@ -4517,7 +4517,7 @@
     {
       "name": "synology",
       "displayName": "Synology",
-      "png": "png/synology.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/synology.png",
       "svg": null,
       "formats": [
         "png"
@@ -4526,7 +4526,7 @@
     {
       "name": "taiga",
       "displayName": "Taiga",
-      "png": "png/taiga.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/taiga.png",
       "svg": null,
       "formats": [
         "png"
@@ -4535,8 +4535,8 @@
     {
       "name": "tailscale",
       "displayName": "Tailscale",
-      "png": "png/tailscale.png",
-      "svg": "svg/tailscale.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tailscale.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/tailscale.svg",
       "formats": [
         "png",
         "svg"
@@ -4545,7 +4545,7 @@
     {
       "name": "tandoorrecipes",
       "displayName": "Tandoorrecipes",
-      "png": "png/tandoorrecipes.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tandoorrecipes.png",
       "svg": null,
       "formats": [
         "png"
@@ -4554,7 +4554,7 @@
     {
       "name": "tasmoadmin",
       "displayName": "Tasmoadmin",
-      "png": "png/tasmoadmin.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tasmoadmin.png",
       "svg": null,
       "formats": [
         "png"
@@ -4563,7 +4563,7 @@
     {
       "name": "tasmota",
       "displayName": "Tasmota",
-      "png": "png/tasmota.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tasmota.png",
       "svg": null,
       "formats": [
         "png"
@@ -4572,8 +4572,8 @@
     {
       "name": "tautulli",
       "displayName": "Tautulli",
-      "png": "png/tautulli.png",
-      "svg": "svg/tautulli.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tautulli.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/tautulli.svg",
       "formats": [
         "png",
         "svg"
@@ -4582,7 +4582,7 @@
     {
       "name": "tdarr",
       "displayName": "Tdarr",
-      "png": "png/tdarr.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tdarr.png",
       "svg": null,
       "formats": [
         "png"
@@ -4591,7 +4591,7 @@
     {
       "name": "teedy",
       "displayName": "Teedy",
-      "png": "png/teedy.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/teedy.png",
       "svg": null,
       "formats": [
         "png"
@@ -4600,8 +4600,8 @@
     {
       "name": "telegram",
       "displayName": "Telegram",
-      "png": "png/telegram.png",
-      "svg": "svg/telegram.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/telegram.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/telegram.svg",
       "formats": [
         "png",
         "svg"
@@ -4610,7 +4610,7 @@
     {
       "name": "terraform",
       "displayName": "Terraform",
-      "png": "png/terraform.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/terraform.png",
       "svg": null,
       "formats": [
         "png"
@@ -4619,8 +4619,8 @@
     {
       "name": "thanos",
       "displayName": "Thanos",
-      "png": "png/thanos.png",
-      "svg": "svg/thanos.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/thanos.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/thanos.svg",
       "formats": [
         "png",
         "svg"
@@ -4629,7 +4629,7 @@
     {
       "name": "theia",
       "displayName": "Theia",
-      "png": "png/theia.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/theia.png",
       "svg": null,
       "formats": [
         "png"
@@ -4638,7 +4638,7 @@
     {
       "name": "thelounge",
       "displayName": "Thelounge",
-      "png": "png/thelounge.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/thelounge.png",
       "svg": null,
       "formats": [
         "png"
@@ -4647,7 +4647,7 @@
     {
       "name": "theme-park",
       "displayName": "Theme Park",
-      "png": "png/theme-park.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/theme-park.png",
       "svg": null,
       "formats": [
         "png"
@@ -4656,8 +4656,8 @@
     {
       "name": "threads",
       "displayName": "Threads",
-      "png": "png/threads.png",
-      "svg": "svg/threads.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/threads.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/threads.svg",
       "formats": [
         "png",
         "svg"
@@ -4666,8 +4666,8 @@
     {
       "name": "thunderbird",
       "displayName": "Thunderbird",
-      "png": "png/thunderbird.png",
-      "svg": "svg/thunderbird.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/thunderbird.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/thunderbird.svg",
       "formats": [
         "png",
         "svg"
@@ -4676,8 +4676,8 @@
     {
       "name": "tiktok",
       "displayName": "Tiktok",
-      "png": "png/tiktok.png",
-      "svg": "svg/tiktok.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tiktok.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/tiktok.svg",
       "formats": [
         "png",
         "svg"
@@ -4686,7 +4686,7 @@
     {
       "name": "tinytinyrss",
       "displayName": "Tinytinyrss",
-      "png": "png/tinytinyrss.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tinytinyrss.png",
       "svg": null,
       "formats": [
         "png"
@@ -4695,8 +4695,8 @@
     {
       "name": "tp-link",
       "displayName": "Tp Link",
-      "png": "png/tp-link.png",
-      "svg": "svg/tp-link.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tp-link.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/tp-link.svg",
       "formats": [
         "png",
         "svg"
@@ -4705,7 +4705,7 @@
     {
       "name": "traccar",
       "displayName": "Traccar",
-      "png": "png/traccar.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/traccar.png",
       "svg": null,
       "formats": [
         "png"
@@ -4714,8 +4714,8 @@
     {
       "name": "traefik",
       "displayName": "Traefik",
-      "png": "png/traefik.png",
-      "svg": "svg/traefik.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/traefik.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/traefik.svg",
       "formats": [
         "png",
         "svg"
@@ -4724,8 +4724,8 @@
     {
       "name": "transmission",
       "displayName": "Transmission",
-      "png": "png/transmission.png",
-      "svg": "svg/transmission.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/transmission.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/transmission.svg",
       "formats": [
         "png",
         "svg"
@@ -4734,7 +4734,7 @@
     {
       "name": "trilium",
       "displayName": "Trilium",
-      "png": "png/trilium.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/trilium.png",
       "svg": null,
       "formats": [
         "png"
@@ -4743,7 +4743,7 @@
     {
       "name": "truenas-core",
       "displayName": "Truenas Core",
-      "png": "png/truenas-core.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/truenas-core.png",
       "svg": null,
       "formats": [
         "png"
@@ -4752,8 +4752,8 @@
     {
       "name": "truenas-scale",
       "displayName": "Truenas Scale",
-      "png": "png/truenas-scale.png",
-      "svg": "svg/truenas-scale.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/truenas-scale.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/truenas-scale.svg",
       "formats": [
         "png",
         "svg"
@@ -4762,8 +4762,8 @@
     {
       "name": "truenas",
       "displayName": "Truenas",
-      "png": "png/truenas.png",
-      "svg": "svg/truenas.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/truenas.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/truenas.svg",
       "formats": [
         "png",
         "svg"
@@ -4772,7 +4772,7 @@
     {
       "name": "tube-archivist",
       "displayName": "Tube Archivist",
-      "png": "png/tube-archivist.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tube-archivist.png",
       "svg": null,
       "formats": [
         "png"
@@ -4781,7 +4781,7 @@
     {
       "name": "tubearchivist",
       "displayName": "Tubearchivist",
-      "png": "png/tubearchivist.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tubearchivist.png",
       "svg": null,
       "formats": [
         "png"
@@ -4790,7 +4790,7 @@
     {
       "name": "tubesync",
       "displayName": "Tubesync",
-      "png": "png/tubesync.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tubesync.png",
       "svg": null,
       "formats": [
         "png"
@@ -4799,8 +4799,8 @@
     {
       "name": "tvdb",
       "displayName": "Tvdb",
-      "png": "png/tvdb.png",
-      "svg": "svg/tvdb.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tvdb.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/tvdb.svg",
       "formats": [
         "png",
         "svg"
@@ -4809,7 +4809,7 @@
     {
       "name": "tvheadend",
       "displayName": "Tvheadend",
-      "png": "png/tvheadend.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/tvheadend.png",
       "svg": null,
       "formats": [
         "png"
@@ -4818,8 +4818,8 @@
     {
       "name": "twitch",
       "displayName": "Twitch",
-      "png": "png/twitch.png",
-      "svg": "svg/twitch.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/twitch.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/twitch.svg",
       "formats": [
         "png",
         "svg"
@@ -4828,8 +4828,8 @@
     {
       "name": "ubiquiti-unifi",
       "displayName": "Ubiquiti Unifi",
-      "png": "png/ubiquiti-unifi.png",
-      "svg": "svg/ubiquiti-unifi.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ubiquiti-unifi.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/ubiquiti-unifi.svg",
       "formats": [
         "png",
         "svg"
@@ -4838,7 +4838,7 @@
     {
       "name": "ubooquity",
       "displayName": "Ubooquity",
-      "png": "png/ubooquity.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ubooquity.png",
       "svg": null,
       "formats": [
         "png"
@@ -4847,8 +4847,8 @@
     {
       "name": "ubuntu",
       "displayName": "Ubuntu",
-      "png": "png/ubuntu.png",
-      "svg": "svg/ubuntu.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ubuntu.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/ubuntu.svg",
       "formats": [
         "png",
         "svg"
@@ -4857,7 +4857,7 @@
     {
       "name": "ultimateguitar",
       "displayName": "Ultimateguitar",
-      "png": "png/ultimateguitar.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ultimateguitar.png",
       "svg": null,
       "formats": [
         "png"
@@ -4866,7 +4866,7 @@
     {
       "name": "unifi",
       "displayName": "Unifi",
-      "png": "png/unifi.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/unifi.png",
       "svg": null,
       "formats": [
         "png"
@@ -4875,7 +4875,7 @@
     {
       "name": "unpackerr",
       "displayName": "Unpackerr",
-      "png": "png/unpackerr.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/unpackerr.png",
       "svg": null,
       "formats": [
         "png"
@@ -4884,7 +4884,7 @@
     {
       "name": "unraid",
       "displayName": "Unraid",
-      "png": "png/unraid.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/unraid.png",
       "svg": null,
       "formats": [
         "png"
@@ -4893,7 +4893,7 @@
     {
       "name": "updog",
       "displayName": "Updog",
-      "png": "png/updog.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/updog.png",
       "svg": null,
       "formats": [
         "png"
@@ -4902,8 +4902,8 @@
     {
       "name": "uptime-kuma",
       "displayName": "Uptime Kuma",
-      "png": "png/uptime-kuma.png",
-      "svg": "svg/uptime-kuma.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/uptime-kuma.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/uptime-kuma.svg",
       "formats": [
         "png",
         "svg"
@@ -4912,7 +4912,7 @@
     {
       "name": "urbackup",
       "displayName": "Urbackup",
-      "png": "png/urbackup.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/urbackup.png",
       "svg": null,
       "formats": [
         "png"
@@ -4921,8 +4921,8 @@
     {
       "name": "usps",
       "displayName": "Usps",
-      "png": "png/usps.png",
-      "svg": "svg/usps.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/usps.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/usps.svg",
       "formats": [
         "png",
         "svg"
@@ -4931,7 +4931,7 @@
     {
       "name": "valetudo",
       "displayName": "Valetudo",
-      "png": "png/valetudo.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/valetudo.png",
       "svg": null,
       "formats": [
         "png"
@@ -4940,8 +4940,8 @@
     {
       "name": "vault",
       "displayName": "Vault",
-      "png": "png/vault.png",
-      "svg": "svg/vault.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/vault.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/vault.svg",
       "formats": [
         "png",
         "svg"
@@ -4950,7 +4950,7 @@
     {
       "name": "vaultwarden",
       "displayName": "Vaultwarden",
-      "png": "png/vaultwarden.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/vaultwarden.png",
       "svg": null,
       "formats": [
         "png"
@@ -4959,7 +4959,7 @@
     {
       "name": "vikunja",
       "displayName": "Vikunja",
-      "png": "png/vikunja.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/vikunja.png",
       "svg": null,
       "formats": [
         "png"
@@ -4968,7 +4968,7 @@
     {
       "name": "virtualradarserver",
       "displayName": "Virtualradarserver",
-      "png": "png/virtualradarserver.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/virtualradarserver.png",
       "svg": null,
       "formats": [
         "png"
@@ -4977,7 +4977,7 @@
     {
       "name": "vmware",
       "displayName": "Vmware",
-      "png": "png/vmware.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/vmware.png",
       "svg": null,
       "formats": [
         "png"
@@ -4986,7 +4986,7 @@
     {
       "name": "vmwarehorizon",
       "displayName": "Vmwarehorizon",
-      "png": "png/vmwarehorizon.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/vmwarehorizon.png",
       "svg": null,
       "formats": [
         "png"
@@ -4995,7 +4995,7 @@
     {
       "name": "volumio",
       "displayName": "Volumio",
-      "png": "png/volumio.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/volumio.png",
       "svg": null,
       "formats": [
         "png"
@@ -5004,8 +5004,8 @@
     {
       "name": "wallabag",
       "displayName": "Wallabag",
-      "png": "png/wallabag.png",
-      "svg": "svg/wallabag.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wallabag.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/wallabag.svg",
       "formats": [
         "png",
         "svg"
@@ -5014,7 +5014,7 @@
     {
       "name": "wanikani",
       "displayName": "Wanikani",
-      "png": "png/wanikani.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wanikani.png",
       "svg": null,
       "formats": [
         "png"
@@ -5023,7 +5023,7 @@
     {
       "name": "watcher",
       "displayName": "Watcher",
-      "png": "png/watcher.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/watcher.png",
       "svg": null,
       "formats": [
         "png"
@@ -5032,7 +5032,7 @@
     {
       "name": "watchtower",
       "displayName": "Watchtower",
-      "png": "png/watchtower.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/watchtower.png",
       "svg": null,
       "formats": [
         "png"
@@ -5041,7 +5041,7 @@
     {
       "name": "webdav",
       "displayName": "Webdav",
-      "png": "png/webdav.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/webdav.png",
       "svg": null,
       "formats": [
         "png"
@@ -5050,7 +5050,7 @@
     {
       "name": "webmin",
       "displayName": "Webmin",
-      "png": "png/webmin.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/webmin.png",
       "svg": null,
       "formats": [
         "png"
@@ -5059,7 +5059,7 @@
     {
       "name": "webtools",
       "displayName": "Webtools",
-      "png": "png/webtools.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/webtools.png",
       "svg": null,
       "formats": [
         "png"
@@ -5068,7 +5068,7 @@
     {
       "name": "wekan",
       "displayName": "Wekan",
-      "png": "png/wekan.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wekan.png",
       "svg": null,
       "formats": [
         "png"
@@ -5077,7 +5077,7 @@
     {
       "name": "wetty",
       "displayName": "Wetty",
-      "png": "png/wetty.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wetty.png",
       "svg": null,
       "formats": [
         "png"
@@ -5086,7 +5086,7 @@
     {
       "name": "wggenweb",
       "displayName": "Wggenweb",
-      "png": "png/wggenweb.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wggenweb.png",
       "svg": null,
       "formats": [
         "png"
@@ -5095,7 +5095,7 @@
     {
       "name": "whatsapp",
       "displayName": "Whatsapp",
-      "png": "png/whatsapp.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/whatsapp.png",
       "svg": null,
       "formats": [
         "png"
@@ -5104,7 +5104,7 @@
     {
       "name": "whoami",
       "displayName": "Whoami",
-      "png": "png/whoami.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/whoami.png",
       "svg": null,
       "formats": [
         "png"
@@ -5113,7 +5113,7 @@
     {
       "name": "wikijs",
       "displayName": "Wikijs",
-      "png": "png/wikijs.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wikijs.png",
       "svg": null,
       "formats": [
         "png"
@@ -5122,7 +5122,7 @@
     {
       "name": "windows-10",
       "displayName": "Windows 10",
-      "png": "png/windows-10.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-10.png",
       "svg": null,
       "formats": [
         "png"
@@ -5131,7 +5131,7 @@
     {
       "name": "windows-11",
       "displayName": "Windows 11",
-      "png": "png/windows-11.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-11.png",
       "svg": null,
       "formats": [
         "png"
@@ -5140,7 +5140,7 @@
     {
       "name": "windows-7",
       "displayName": "Windows 7",
-      "png": "png/windows-7.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-7.png",
       "svg": null,
       "formats": [
         "png"
@@ -5149,7 +5149,7 @@
     {
       "name": "windows-8",
       "displayName": "Windows 8",
-      "png": "png/windows-8.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-8.png",
       "svg": null,
       "formats": [
         "png"
@@ -5158,8 +5158,8 @@
     {
       "name": "windows-95",
       "displayName": "Windows 95",
-      "png": "png/windows-95.png",
-      "svg": "svg/windows-95.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-95.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/windows-95.svg",
       "formats": [
         "png",
         "svg"
@@ -5168,7 +5168,7 @@
     {
       "name": "windows-98",
       "displayName": "Windows 98",
-      "png": "png/windows-98.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-98.png",
       "svg": null,
       "formats": [
         "png"
@@ -5177,7 +5177,7 @@
     {
       "name": "windows-nt",
       "displayName": "Windows Nt",
-      "png": "png/windows-nt.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-nt.png",
       "svg": null,
       "formats": [
         "png"
@@ -5186,7 +5186,7 @@
     {
       "name": "windows-vista",
       "displayName": "Windows Vista",
-      "png": "png/windows-vista.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-vista.png",
       "svg": null,
       "formats": [
         "png"
@@ -5195,7 +5195,7 @@
     {
       "name": "windows-xp",
       "displayName": "Windows Xp",
-      "png": "png/windows-xp.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/windows-xp.png",
       "svg": null,
       "formats": [
         "png"
@@ -5204,8 +5204,8 @@
     {
       "name": "wireguard",
       "displayName": "Wireguard",
-      "png": "png/wireguard.png",
-      "svg": "svg/wireguard.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wireguard.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/wireguard.svg",
       "formats": [
         "png",
         "svg"
@@ -5214,7 +5214,7 @@
     {
       "name": "wizarr",
       "displayName": "Wizarr",
-      "png": "png/wizarr.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wizarr.png",
       "svg": null,
       "formats": [
         "png"
@@ -5223,8 +5223,8 @@
     {
       "name": "woocommerce",
       "displayName": "Woocommerce",
-      "png": "png/woocommerce.png",
-      "svg": "svg/woocommerce.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/woocommerce.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/woocommerce.svg",
       "formats": [
         "png",
         "svg"
@@ -5233,8 +5233,8 @@
     {
       "name": "wordpress",
       "displayName": "Wordpress",
-      "png": "png/wordpress.png",
-      "svg": "svg/wordpress.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/wordpress.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/wordpress.svg",
       "formats": [
         "png",
         "svg"
@@ -5243,8 +5243,8 @@
     {
       "name": "x",
       "displayName": "X",
-      "png": "png/x.png",
-      "svg": "svg/x.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/x.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/x.svg",
       "formats": [
         "png",
         "svg"
@@ -5253,8 +5253,8 @@
     {
       "name": "xbrowsersync",
       "displayName": "Xbrowsersync",
-      "png": "png/xbrowsersync.png",
-      "svg": "svg/xbrowsersync.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/xbrowsersync.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/xbrowsersync.svg",
       "formats": [
         "png",
         "svg"
@@ -5263,7 +5263,7 @@
     {
       "name": "xigmanas",
       "displayName": "Xigmanas",
-      "png": "png/xigmanas.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/xigmanas.png",
       "svg": null,
       "formats": [
         "png"
@@ -5272,7 +5272,7 @@
     {
       "name": "xteve",
       "displayName": "Xteve",
-      "png": "png/xteve.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/xteve.png",
       "svg": null,
       "formats": [
         "png"
@@ -5281,7 +5281,7 @@
     {
       "name": "xwiki",
       "displayName": "Xwiki",
-      "png": "png/xwiki.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/xwiki.png",
       "svg": null,
       "formats": [
         "png"
@@ -5290,7 +5290,7 @@
     {
       "name": "yacht",
       "displayName": "Yacht",
-      "png": "png/yacht.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/yacht.png",
       "svg": null,
       "formats": [
         "png"
@@ -5299,8 +5299,8 @@
     {
       "name": "ynab",
       "displayName": "Ynab",
-      "png": "png/ynab.png",
-      "svg": "svg/ynab.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/ynab.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/ynab.svg",
       "formats": [
         "png",
         "svg"
@@ -5309,8 +5309,8 @@
     {
       "name": "youtube",
       "displayName": "Youtube",
-      "png": "png/youtube.png",
-      "svg": "svg/youtube.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/youtube.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/youtube.svg",
       "formats": [
         "png",
         "svg"
@@ -5319,7 +5319,7 @@
     {
       "name": "youtubedl",
       "displayName": "Youtubedl",
-      "png": "png/youtubedl.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/youtubedl.png",
       "svg": null,
       "formats": [
         "png"
@@ -5328,8 +5328,8 @@
     {
       "name": "z-wave-js-ui",
       "displayName": "Z Wave Js Ui",
-      "png": "png/z-wave-js-ui.png",
-      "svg": "svg/z-wave-js-ui.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/z-wave-js-ui.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/z-wave-js-ui.svg",
       "formats": [
         "png",
         "svg"
@@ -5338,8 +5338,8 @@
     {
       "name": "zabbix",
       "displayName": "Zabbix",
-      "png": "png/zabbix.png",
-      "svg": "svg/zabbix.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/zabbix.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/zabbix.svg",
       "formats": [
         "png",
         "svg"
@@ -5348,7 +5348,7 @@
     {
       "name": "zigbee2mqtt",
       "displayName": "Zigbee2Mqtt",
-      "png": "png/zigbee2mqtt.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/zigbee2mqtt.png",
       "svg": null,
       "formats": [
         "png"
@@ -5357,7 +5357,7 @@
     {
       "name": "znc",
       "displayName": "Znc",
-      "png": "png/znc.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/znc.png",
       "svg": null,
       "formats": [
         "png"
@@ -5366,7 +5366,7 @@
     {
       "name": "zoneminder",
       "displayName": "Zoneminder",
-      "png": "png/zoneminder.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/zoneminder.png",
       "svg": null,
       "formats": [
         "png"
@@ -5375,8 +5375,8 @@
     {
       "name": "zoom",
       "displayName": "Zoom",
-      "png": "png/zoom.png",
-      "svg": "svg/zoom.svg",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/zoom.png",
+      "svg": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/svg/zoom.svg",
       "formats": [
         "png",
         "svg"
@@ -5385,7 +5385,7 @@
     {
       "name": "zulip",
       "displayName": "Zulip",
-      "png": "png/zulip.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/zulip.png",
       "svg": null,
       "formats": [
         "png"
@@ -5394,7 +5394,7 @@
     {
       "name": "zwavejs",
       "displayName": "Zwavejs",
-      "png": "png/zwavejs.png",
+      "png": "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/png/zwavejs.png",
       "svg": null,
       "formats": [
         "png"

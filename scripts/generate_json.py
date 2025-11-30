@@ -4,14 +4,17 @@ import json
 from pathlib import Path
 from datetime import datetime
 
+# CDN 基础 URL
+CDN_BASE_URL = "https://cdn.jsdelivr.net/gh/lsimply/icons@refs/heads/main/"
+
 def get_icon_info(png_file, svg_dir):
     """获取图标信息"""
     name = png_file.stem
-    png_path = f"png/{png_file.name}"
+    png_path = f"{CDN_BASE_URL}png/{png_file.name}"
     
     # 检查是否存在对应的 SVG 文件
     svg_file = svg_dir / f"{name}.svg"
-    svg_path = f"svg/{name}.svg" if svg_file.exists() else None
+    svg_path = f"{CDN_BASE_URL}svg/{name}.svg" if svg_file.exists() else None
     
     return {
         "name": name,
